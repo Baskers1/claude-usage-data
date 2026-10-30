@@ -170,3 +170,5 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-10-29T18,home,haiku,74,2103,173469,517618,8,0.2792
 2026-10-29T23,.claude-mem-observer-sessions,haiku,6,3540,14311,0,2,0.0356
 2026-10-29T23,Obsidian-second-brain,sonnet,42,15245,111921,1779958,20,0.6103
+2026-10-30T00,.claude,fable,12,3869,104713,512134,6,1.6305
+2026-10-30T00,.claude,haiku,112,2840,124700,840916,13,0.2543
