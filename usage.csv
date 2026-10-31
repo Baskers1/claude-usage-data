@@ -195,3 +195,4 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-10-30T23,Projects-baskers-website,haiku,124,3175,77875,738234,14,0.1872
 2026-10-30T23,Projects-baskers-website,sonnet,60,6063,245913,2067934,30,1.0891
 2026-10-30T23,dashboards-source,haiku,86,2815,105427,903832,10,0.2363
+2026-10-31T00,dashboards-source,haiku,52,1473,2327,534894,6,0.0638
