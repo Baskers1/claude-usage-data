@@ -212,6 +212,8 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-03T23,Obsidian-second-brain,sonnet,36,12656,84196,1168115,17,0.4539
 2026-11-06T08,.claude,haiku,74,2586,126487,353415,8,0.2065
 2026-11-06T09,.claude,fable,10,1684,85859,252807,4,1.2207
-2026-11-06T09,dashboards-efficiency,opus,4,1165,47137,67233,2,0.3574
+2026-11-06T09,dashboards-efficiency,opus,38,13834,154830,1696415,17,2.1619
+2026-11-06T09,dashboards-efficiency,sonnet,10,1830,107470,424644,5,0.3719
 2026-11-06T09,dashboards-source,fable,286,94798,590993,14017882,142,15.6346
 2026-11-06T09,loop-practice,haiku,58,1104,32005,336212,7,0.0792
+2026-11-06T10,dashboards-efficiency,opus,84,27017,143946,4122551,39,3.6368
