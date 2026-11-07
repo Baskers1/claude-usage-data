@@ -4,7 +4,7 @@
 Run hourly by launchd (com.baskers.claude-usage). `--selftest` checks the pricing maths.
 Costs are API list prices (USD) per request; a Max plan isn't billed per token.
 """
-import collections, csv, datetime as dt, glob, json, os, sys, urllib.request
+import collections, csv, datetime as dt, glob, json, os, re, sys, urllib.request
 
 HOME = os.path.expanduser('~')
 PROJECTS = os.path.join(HOME, '.claude', 'projects')
@@ -103,6 +103,79 @@ def export():
     return len(agg)
 
 
+SAFE = re.compile(r'[^A-Za-z0-9:_./-]')
+
+
+def clean_label(names):
+    """Command/skill names only, never prompt text (the repo is public)."""
+    out = []
+    for n in names:
+        n = SAFE.sub('', n)[:40]
+        if n and n not in out:
+            out.append(n)
+    return ' '.join(out[:2])
+
+
+def export_sessions():
+    cut = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=DAYS)
+    seen, sess = set(), {}
+    for path in glob.glob(os.path.join(PROJECTS, '*', '**', '*.jsonl'), recursive=True):
+        if os.path.getmtime(path) < cut.timestamp():
+            continue
+        parts = os.path.relpath(path, PROJECTS).split(os.sep)
+        sid = parts[1].replace('.jsonl', '')
+        sub = '/subagents/' in path
+        s = sess.setdefault(sid, {'project': project_name(parts[0]), 'start': None, 'names': [], 'req': 0,
+                                  'tokens': 0, 'cost': 0.0, 'fable': 0.0, 'sub': 0.0, 'by_model': collections.Counter()})
+        with open(path, errors='ignore') as fh:
+            for line in fh:
+                try:
+                    d = json.loads(line)
+                except ValueError:
+                    continue
+                m = d.get('message')
+                if not isinstance(m, dict):
+                    continue
+                if d.get('type') == 'user' and not sub:
+                    for n in re.findall(r'<command-name>/?([^<]+)</command-name>', json.dumps(m.get('content'))):
+                        if n not in ('model', 'clear', 'exit', 'compact', 'resume', 'context', 'usage', 'cost'):
+                            s['names'].append('/' + n)
+                if d.get('type') == 'assistant' and isinstance(m.get('content'), list):
+                    for c in m['content']:
+                        if isinstance(c, dict) and c.get('type') == 'tool_use' and c.get('name') == 'Skill':
+                            s['names'].append(str((c.get('input') or {}).get('skill', '')))
+                if not m.get('usage') or not d.get('timestamp') or (m.get('model') or '').startswith('<'):
+                    continue
+                key = (m.get('id'), d.get('requestId'))
+                if key[0] and key in seen:
+                    continue
+                seen.add(key)
+                t = dt.datetime.fromisoformat(d['timestamp'].replace('Z', '+00:00'))
+                if t < cut:
+                    continue
+                u = m['usage']
+                i, o = u.get('input_tokens') or 0, u.get('output_tokens') or 0
+                cw, cr = u.get('cache_creation_input_tokens') or 0, u.get('cache_read_input_tokens') or 0
+                c = cost_usd(m.get('model'), i, o, cw, cr) or 0
+                fam = family(m.get('model'))
+                local = t.astimezone().strftime('%Y-%m-%dT%H:%M')
+                s['start'] = min(s['start'] or local, local)
+                s['req'] += 1; s['tokens'] += i + o + cw + cr; s['cost'] += c; s['by_model'][fam] += c
+                if fam == 'fable':
+                    s['fable'] += c
+                if sub:
+                    s['sub'] += c
+    rows = [(sid, s) for sid, s in sess.items() if s['start'] and s['cost'] >= 0.10]
+    rows = sorted(rows, key=lambda r: r[1]['cost'], reverse=True)[:150]  # shortcut: top 150 by cost keeps the feed issue under its size limit
+    with open(os.path.join(OUT, 'sessions.csv'), 'w', newline='') as fh:
+        w = csv.writer(fh, lineterminator='\n')
+        w.writerow(['session', 'start', 'project', 'label', 'main_model', 'requests', 'tokens', 'cost_usd', 'fable_usd', 'subagent_usd'])
+        for sid, s in sorted(rows, key=lambda r: r[1]['start']):
+            w.writerow([sid[:8], s['start'], s['project'], clean_label(s['names']), s['by_model'].most_common(1)[0][0],
+                        s['req'], s['tokens'], round(s['cost'], 4), round(s['fable'], 4), round(s['sub'], 4)])
+    return len(rows)
+
+
 def fx():
     try:
         with urllib.request.urlopen('https://api.frankfurter.dev/v1/latest?base=USD&symbols=GBP', timeout=20) as r:
@@ -132,6 +205,8 @@ def selftest():
     assert project_name('-Users-baskersimac-Obsidian-second-brain') == 'Obsidian-second-brain'
     assert project_name('-Users-baskersimac-Library-Application-Support-Claude-scratch-workspaces-x') == 'cowork-scratch'
     assert project_name('-private-var-folders-kz') == 'temp'
+    assert clean_label(['/review', 'graphify', '/review', 'a,b"<x>', 'x y']) == '/review graphify'
+    assert clean_label(['hello, world; rm -rf']) == 'helloworldrm-rf'
     print('selftest ok')
 
 
@@ -140,4 +215,5 @@ if __name__ == '__main__':
         selftest()
     else:
         print('rows', export())
+        print('sessions', export_sessions())
         fx()

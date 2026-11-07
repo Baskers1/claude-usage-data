@@ -11,9 +11,10 @@ echo "$(date -u +%FT%TZ) export $s" > status.txt
   echo "### status"; echo '```'; cat status.txt; echo '```'
   echo "### fx.csv"; echo '```csv'; cat fx.csv; echo '```'
   echo "### usage.csv"; echo '```csv'; cat usage.csv; echo '```'
+  echo "### sessions.csv"; echo '```csv'; cat sessions.csv; echo '```'
 } > feed.md
 [ "$(wc -c < feed.md)" -gt 64000 ] && echo "$(date -u +%FT%TZ) export ok, feed too big for issue" > status.txt  # shortcut: issue body max 65,536 chars; trim DAYS if this ever shows
-git add usage.csv fx.csv status.txt export_usage.py run_hourly.sh
+git add usage.csv sessions.csv fx.csv status.txt export_usage.py run_hourly.sh
 git commit -q -m "usage $(date -u +%FT%TZ)" || true
 git push -q origin HEAD:main
 if gh issue view 1 --repo Baskers1/claude-usage-data >/dev/null 2>&1; then

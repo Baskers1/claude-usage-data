@@ -1,0 +1,118 @@
+session,start,project,label,main_model,requests,tokens,cost_usd,fable_usd,subagent_usd
+73dd2c2c,2026-09-14T13:30,cowork-scratch,skill-creator:skill-creator eli5,sonnet,21,3216703,1.0617,0.0,0.0
+9dfcd57c,2026-09-14T15:01,cowork-scratch,anthropic-skills:docx dataviz,sonnet,18,2962585,1.1294,0.0,0.0
+720a8ed5,2026-09-21T14:44,.claude,/plugin /reload-plugins,sonnet,73,15275208,3.8935,0.0,0.0
+91d6b4f4,2026-09-22T09:09,.claude,/plugin /caveman,sonnet,6,910608,0.4927,0.0,0.0
+c4de4696,2026-09-27T15:29,.claude,/plugin /reload-plugins,opus,44,10290518,3.5819,0.0,0.0
+36556f02,2026-09-28T10:19,.claude,/mcp__prompts-chat__image /plugin,opus,44,10034062,4.6494,0.0,0.0
+8a2f80b6,2026-09-28T14:46,.claude,/mcp__prompts-chat__image /plugin,opus,11,3439088,2.2844,0.0,0.0
+7238e98d,2026-09-28T17:11,.claude,,opus,8,2261122,1.8684,0.0,0.0
+cfb8384f,2026-09-28T17:45,.claude,,opus,3,788965,1.3424,0.0,0.0
+adda2dbd,2026-09-29T10:42,.claude,,opus,6,1681667,1.7441,0.0,0.0
+dedac00c,2026-09-29T14:18,.claude,/reload-plugins,opus,24,7687476,3.4312,0.0,0.0
+e89e6e7b,2026-09-29T16:04,.claude,/claim-credit /plugin,opus,16,5048009,3.9841,0.0,0.0
+38fce639,2026-09-30T12:58,.claude,,opus,5,1369359,1.4996,0.0,0.0
+17e3d964,2026-09-30T13:15,.claude,,opus,5,1358977,1.4555,0.0,0.0
+b8083e8e,2026-09-30T13:24,.claude,,opus,3,812043,1.3304,0.0,0.0
+048d94d9,2026-09-30T13:32,.claude,,opus,11,3025026,3.0152,0.0,0.0
+b2ab3073,2026-10-01T08:33,.claude,,opus,5,1352743,1.4709,0.0,0.0
+dd5a1116,2026-10-01T12:07,.claude,/plugin /agent-reach,opus,72,23316619,9.7477,0.0,0.0
+92110979,2026-10-02T18:36,.claude,,opus,19,5793833,2.6805,0.0,0.0
+f99a2b49,2026-10-03T12:58,.claude,,opus,4,1197738,1.6066,0.0,0.0
+f244b9c0,2026-10-04T09:57,.claude,,opus,10,2984009,1.9821,0.0,0.0
+287509e1,2026-10-04T10:12,.claude,,opus,14,4264531,2.258,0.0,0.0
+e7569562,2026-10-04T10:19,.claude,/reload-plugins /plugin,opus,121,50437560,21.0306,0.0,0.0
+a145bf45,2026-10-07T09:50,.claude,/reload-plugins /reload-skills,opus,51,18512396,6.0055,0.0,0.0
+9f6d46b0,2026-10-07T10:52,.claude,/archcore:init /reload-skills,opus,23,7959677,3.4396,0.0,0.0
+46f26e40,2026-10-07T11:03,.claude,/reload-skills /reload-plugins,opus,21,7161650,3.0687,0.0,0.0
+5b57c8f4,2026-10-07T11:22,.claude,,opus,35,12083473,9.1131,0.0,0.0
+33a01083,2026-10-08T12:13,.claude,/plugin /doctor,opus,53,24084963,8.3526,0.0,0.0
+d2a6f815,2026-10-08T13:01,.claude,,opus,25,7318601,4.1752,0.0,0.0
+be1cca74,2026-10-09T09:23,.claude,/plugin /reload-plugins,opus,11,6504127,4.2444,0.0,0.0
+a95a7499,2026-10-10T10:37,.claude,/agents schedule,opus,69,16850679,8.583,0.0,0.0
+e38115bc,2026-10-10T12:21,.claude,,haiku,1,274295,0.1792,0.0,0.0
+f3932e2f,2026-10-10T19:39,.claude,/reload-plugins,opus,4,1147198,1.6262,0.0,0.0
+5db8830c,2026-10-10T19:46,.claude,/plugin /reload-plugins,opus,6,1782149,2.9772,0.0,0.0
+f1964987,2026-10-10T20:32,.claude-skills,/reload-plugins /plugin,haiku,1,267999,0.1706,0.0,0.0
+fdd96d51,2026-10-10T20:33,.claude,,opus,15,4392677,2.2379,0.0,0.0
+82e4fdf7,2026-10-10T20:50,.claude,/plugin /reload-plugins,opus,31,9276043,3.3307,0.0,0.0
+e59d907a,2026-10-10T21:55,.claude,,opus,11,3216789,1.9395,0.0,0.0
+2e1e9659,2026-10-10T22:01,.claude,/plugin,opus,11,2921060,2.9332,0.0,0.0
+6d7a4f94,2026-10-10T22:02,.claude,,haiku,1,271026,0.172,0.0,0.0
+3dd8d62a,2026-10-10T22:30,Desktop-jev-router,,haiku,4,789991,0.3127,0.0,0.0
+560ba5c0,2026-10-10T22:31,Desktop-jev-router,,haiku,1,263698,0.1571,0.0,0.0
+2c3f4d66,2026-10-10T22:34,Desktop-jev-router,,opus,2,543637,1.2722,0.0,0.0
+1f46e9fd,2026-10-10T22:37,Desktop-jev-router,,haiku,7,1377380,0.3368,0.0,0.0
+e22535cc,2026-10-10T22:38,Desktop-jev-router,,haiku,1,261660,0.1537,0.0,0.0
+e53961c1,2026-10-11T10:29,.claude,,opus,35,11206392,4.3673,0.0,0.0
+3df9a770,2026-10-11T10:56,.claude,,opus,19,5460516,2.7336,0.0,0.0
+5468c299,2026-10-11T11:06,.claude,,opus,3,548363,0.8761,0.0,0.0
+d75668e2,2026-10-11T11:13,.claude,/reload-skills /reload-plugins,sonnet,5,819057,0.8947,0.0,0.0
+8aadc0d5,2026-10-11T11:25,.claude,/plugin plugin-authoring,opus,109,20549192,11.6776,0.0,0.0
+d69fe483,2026-10-12T08:24,.claude,/plugin /reload-plugins,haiku,62,10482704,2.677,0.0,0.0
+e4813bb6,2026-10-13T13:40,.claude,,fable,14,2284132,3.3251,2.7649,0.0
+12cda0ba,2026-10-13T16:49,.claude,/plugin plugin-authoring,fable,52,10384451,10.3295,7.4925,0.0
+ed782a82,2026-10-14T22:41,.claude,/rate-limit-options /plugin,haiku,76,13225198,5.7357,0.0,0.0
+78dd8df0,2026-10-15T22:14,.claude,/plugin /reload-plugins,opus,25,2686736,1.6573,0.0,0.0
+9628a021,2026-10-16T18:06,.claude,/ponytail:ponytail-audit /plugin,opus,46,6313757,5.6201,0.0,0.0
+5168e22e,2026-10-16T23:10,.claude,/reload-plugins,opus,13,1269979,2.7665,0.0,0.0
+59a9b34e,2026-10-18T02:01,.claude,/plugin /huggingface-skills:huggingface-local-mo,opus,14,1928641,3.1623,0.0,0.0
+75f50c60,2026-10-18T13:44,.claude,,sonnet,28,2563386,1.0491,0.0,0.0
+a759323d,2026-10-18T15:23,.claude,/plugin /reload-plugins,fable,24,2890007,3.1938,2.6293,0.0
+fb89e966,2026-10-21T11:52,.claude,,haiku,2,164936,0.2083,0.0,0.0
+facaef41,2026-10-21T12:04,.claude,/claude-mem:babysit /claudinator,fable,36,4709096,4.8594,2.4237,0.0
+acfa3839,2026-10-21T12:28,.claude,/ponytail:ponytail,haiku,67,6772547,2.5071,0.0,0.0
+c66c6423,2026-10-21T23:03,.claude,,haiku,9,741883,0.185,0.0,0.0
+d251d782,2026-10-21T23:14,.claude,/plugin /reload-plugins,fable,19,2194238,2.6961,2.5628,0.0
+ae4f385c,2026-10-22T08:33,.claude,/graphify,fable,130,24903144,28.4896,23.4455,6.0729
+1278d4d2,2026-10-23T08:25,.claude,,haiku,8,654547,0.1686,0.0,0.0
+23a58246,2026-10-23T08:34,dashboards-source-tokenledger,,opus,1,79674,0.4983,0.0,0.0
+ee4184fd,2026-10-23T08:34,dashboards-source-tokenledger,,opus,1,79674,0.376,0.0,0.0
+f25ddf0b,2026-10-23T08:44,dashboards-source-tokenledger,,opus,1,49219,0.3088,0.0,0.0
+755f72bf,2026-10-23T08:49,dashboards-source-tokenledger,,opus,1,57851,0.2401,0.0,0.0
+f52e50e2,2026-10-23T08:52,dashboards-source-tokenledger,,opus,1,74077,0.3414,0.0,0.0
+bc7cdb83,2026-10-27T22:45,.claude,/graphify,fable,50,6611223,6.177,3.2653,1.4729
+38f28454,2026-10-28T14:38,Obsidian-second-brain,claude-obsidian:wiki /claude-obsidian:wiki,haiku,9,692191,0.1789,0.0,0.0
+5eb99887,2026-10-28T14:43,Obsidian-second-brain,claude-obsidian:wiki,haiku,50,4422182,1.0863,0.0,0.0
+c7e9f219,2026-10-28T15:23,Obsidian-second-brain,/agents claude-obsidian:wiki-ingest,opus,47,10135272,8.051,0.0,0.0
+f0a5628f,2026-10-28T15:53,Obsidian-second-brain,/effort,fable,10,566195,1.8592,1.8592,0.424
+1f6e8b89,2026-10-28T16:03,Obsidian-second-brain,,fable,9,547010,1.8084,1.8084,0.3593
+6476a796,2026-10-28T16:06,Obsidian-second-brain,,fable,8,530529,1.4349,1.4349,0.4534
+d3b30b73,2026-10-28T16:12,Obsidian-second-brain,,sonnet,6,336078,0.1889,0.0,0.004
+cde1e510,2026-10-28T16:24,Obsidian-second-brain,/effort /claude-obsidian:wiki-ingest,sonnet,24,2893181,0.6826,0.0,0.0
+89e2521c,2026-10-28T16:50,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,12,1100005,0.4451,0.0,0.0
+a6b79275,2026-10-28T17:11,dashboards-source-tokenledger,,haiku,11,903074,0.3076,0.0,0.0
+c8333d13,2026-10-28T23:30,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,12,1204325,0.5641,0.0,0.0
+c5978cd4,2026-10-29T00:54,dashboards-source-tokenledger,,haiku,15,1156959,0.3129,0.0,0.0
+1fd82538,2026-10-29T13:00,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,19,1862036,0.6707,0.0,0.0
+3a86c9db,2026-10-29T14:48,home,session-metrics:session-metrics /plugin,haiku,60,6511714,3.1861,0.0,0.0
+0b762fa3,2026-10-29T23:30,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,20,1907166,0.6103,0.0,0.0
+43ca4bbe,2026-10-30T00:36,.claude,/mcp,fable,19,1589296,1.8848,1.6305,0.0
+dde64669,2026-10-30T08:11,Obsidian-second-brain,claude-obsidian:wiki-ingest,opus,91,15584694,6.003,0.0,0.0
+67d02858,2026-10-30T08:41,Obsidian-second-brain,,sonnet,7,628942,0.3068,0.0,0.0
+fd52f576,2026-10-30T08:46,Obsidian-second-brain,,sonnet,15,1427419,0.3471,0.0,0.0
+ba866627,2026-10-30T13:00,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,20,1760055,0.5533,0.0,0.0
+7a23d916,2026-10-30T15:38,dashboards-source,/loop,opus,68,5787520,1.897,0.0,0.0
+3e60ed38,2026-10-30T22:34,dashboards-source,/effort /autocompact,opus,68,6839690,2.5395,0.0,0.0
+45c12b88,2026-10-30T22:52,.claude,/plugin /reload-plugins,haiku,4,338566,0.2648,0.0,0.0
+f56c4352,2026-10-30T23:08,Projects-baskers-website,/effort,sonnet,23,1671925,0.6703,0.0,0.0
+6f8e0233,2026-10-30T23:30,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,24,1835847,0.5013,0.0,0.0
+d14e8479,2026-10-30T23:31,Projects-baskers-website,,sonnet,21,1467453,0.6059,0.0,0.0
+b5f4ebe0,2026-10-31T11:20,.claude,,sonnet,9,598316,0.4212,0.0,0.0
+4dd48ad7,2026-10-31T11:22,.claude,/poster-design-studio:poster-design-stud,opus,28,2068712,1.3413,0.0,0.0
+680b316e,2026-11-01T13:00,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,13,882232,0.3311,0.0,0.0
+cc494224,2026-11-01T13:01,home,session-metrics:session-metrics,haiku,7,466599,0.284,0.0,0.0
+cfa0e1ae,2026-11-01T23:30,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,15,1036592,0.3343,0.0,0.0
+2d205d85,2026-11-02T13:00,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,12,764967,0.2866,0.0,0.0
+0d6c8b9e,2026-11-02T23:17,Obsidian,claude-obsidian:wiki-lint /claude-obsidian:wiki-ingest,opus,91,9308817,6.8191,1.4269,0.0
+0a0f200f,2026-11-02T23:30,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,4,218129,0.1385,0.0,0.0
+760c4bf2,2026-11-03T13:00,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,25,1834584,0.4782,0.0,0.0
+8a2a0db4,2026-11-03T23:30,Obsidian-second-brain,claude-obsidian:wiki-ingest,sonnet,17,1265003,0.4539,0.0,0.0
+9f49a605,2026-11-03T23:40,Obsidian,,haiku,2,108736,0.1374,0.0,0.0
+af20eb96,2026-11-06T08:38,.claude,/login,fable,12,822922,1.4272,1.2207,0.0
+d5408350,2026-11-06T09:22,dashboards-source,ponytail:ponytail-audit,fable,142,14703959,15.6346,15.6346,10.6263
+4b90851a,2026-11-06T09:42,dashboards-efficiency,/goal,opus,22,2399071,2.5339,0.0,0.0
+3539ab6c,2026-11-06T10:31,dashboards-efficiency,/goal,opus,41,4538488,3.8551,0.0,0.0
+2ba129ca,2026-11-06T11:02,dashboards-efficiency,,fable,15,1416580,2.0759,2.0759,0.0
+861e0737,2026-11-06T11:42,dashboards,,opus,17,1824994,2.5984,0.0,0.0
+bdfc5336,2026-11-06T12:20,dashboards-npt22,,opus,47,6349379,5.5714,0.0,0.0
