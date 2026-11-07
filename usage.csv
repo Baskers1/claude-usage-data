@@ -43,7 +43,6 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-10-08T12,.claude,opus,72,29506,863088,13610519,36,7.628
 2026-10-08T13,.claude,opus,78,11545,354420,15808002,39,5.1649
 2026-10-08T14,.claude,opus,12,2227,267279,1533993,6,1.6878
-2026-10-08T17,.claude-mem-observer-sessions,haiku,9,2637,30936,0,3,0.0519
 2026-10-09T09,.claude,opus,24,3772,597667,5902664,11,4.2444
 2026-10-09T09,.claude-mem-observer-sessions,haiku,3,1343,8489,0,1,0.0173
 2026-10-10T10,.claude,opus,40,21852,329209,4148897,20,2.913
@@ -227,3 +226,5 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-07T11,.claude,sonnet,48,18393,875129,2506169,24,2.8731
 2026-11-07T12,.claude,haiku,498,41711,811354,6436487,58,1.8669
 2026-11-07T12,.claude,opus,161,67924,2472582,18032492,82,26.1688
+2026-11-07T19,home,other,68067,13719,0,1029760,24,0.0
+2026-11-07T20,home,other,77287,1597,0,144384,4,0.0
