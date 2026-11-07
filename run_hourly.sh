@@ -14,6 +14,8 @@ echo "$(date -u +%FT%TZ) export $s" > status.txt
   echo "### sessions.csv"; echo '```csv'; cat sessions.csv; echo '```'
 } > feed.md
 [ "$(wc -c < feed.md)" -gt 64000 ] && echo "$(date -u +%FT%TZ) export ok, feed too big for issue" > status.txt  # shortcut: issue body max 65,536 chars; trim DAYS if this ever shows
+[ -f alert.conf ] && /usr/bin/python3 alerts.py || true  # iMessage + Mac notification once per item over £10
+git add alerts.py .gitignore
 git add usage.csv sessions.csv fx.csv status.txt export_usage.py run_hourly.sh
 git commit -q -m "usage $(date -u +%FT%TZ)" || true
 git push -q origin HEAD:main
