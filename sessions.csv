@@ -118,4 +118,5 @@ d5408350,2026-11-06T09:22,dashboards-source,Repo efficiency review,ponytail:pony
 bdfc5336,2026-11-06T12:20,dashboards-npt22,Fetch_npt_social API cache scheduling,,opus,47,6349379,5.5714,0.0,0.0
 c06b0aee,2026-11-07T10:32,.claude,Graphify codebase queries,/graphify,haiku,100,13475098,5.0194,0.0,1.3268
 040d4ba0,2026-11-07T11:28,.claude,Motion-prompt installation,motion-prompt,haiku,13,938982,0.5116,0.0,0.0
-661a9b1a,2026-11-07T11:49,.claude,Motion-prompt library,motion-prompt,sonnet,38,4582478,1.9475,0.0,0.0
+661a9b1a,2026-11-07T11:49,.claude,Motion-prompt library,motion-prompt,opus,128,27520444,27.0179,0.0,15.8756
+cafbb538,2026-11-07T12:42,.claude,ai-second-brain skill clone,/plugin /reload-plugins,opus,36,3283200,2.4972,0.0,0.0
