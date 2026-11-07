@@ -116,4 +116,6 @@ d5408350,2026-11-06T09:22,dashboards-source,Repo efficiency review,ponytail:pony
 2ba129ca,2026-11-06T11:02,dashboards-efficiency,Tayside shell DATA blob investigation,,fable,15,1416580,2.0759,2.0759,0.0
 861e0737,2026-11-06T11:42,dashboards,Npt-social fetch cache reuse audit,,opus,17,1824994,2.5984,0.0,0.0
 bdfc5336,2026-11-06T12:20,dashboards-npt22,Fetch_npt_social API cache scheduling,,opus,47,6349379,5.5714,0.0,0.0
-c06b0aee,2026-11-07T10:32,.claude,Graphify codebase queries,/graphify,haiku,98,12956394,3.7184,0.0,1.3268
+c06b0aee,2026-11-07T10:32,.claude,Graphify codebase queries,/graphify,haiku,100,13475098,5.0194,0.0,1.3268
+040d4ba0,2026-11-07T11:28,.claude,Motion-prompt installation,motion-prompt,haiku,13,938982,0.5116,0.0,0.0
+661a9b1a,2026-11-07T11:49,.claude,Motion-prompt library,motion-prompt,sonnet,38,4582478,1.9475,0.0,0.0
