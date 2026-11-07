@@ -31,8 +31,8 @@ def find_alerts(usage, sessions, rate, today):
     for s in sessions:
         cost = gbp(float(s['cost_usd']))
         if cost > LIMIT_GBP and s['start'][:10] >= since:
-            what = s['label'] or 'a session'
-            out['session:' + s['session']] = f"Session {what} in {s['project']} (started {s['start'][11:16]}) has cost £{cost:.2f}"
+            what = ' / '.join(x for x in (s.get('name'), s['label']) if x) or 'a session'
+            out['session:' + s['session']] = f"Session '{what}' in {s['project']} (started {s['start'][11:16]}) has cost £{cost:.2f}"
     for kind in ('project', 'model'):
         days = collections.defaultdict(float)
         for r in usage:
@@ -87,12 +87,12 @@ def selftest():
         {'hour': '2026-11-01T10', 'project': 'c', 'model': 'opus', 'cost_usd': '50'},   # too old -> none
     ]
     sessions = [
-        {'session': 's1', 'start': '2026-11-07T09:05', 'project': 'a', 'label': '/graphify', 'cost_usd': '14'},  # £10.50 -> alert
+        {'session': 's1', 'start': '2026-11-07T09:05', 'project': 'a', 'name': 'Graphify run', 'label': '/graphify', 'cost_usd': '14'},  # £10.50 -> alert
         {'session': 's2', 'start': '2026-11-07T09:05', 'project': 'a', 'label': '', 'cost_usd': '13'},          # £9.75 -> none
     ]
     got = find_alerts(usage, sessions, 0.75, dt.date(2026, 11, 7))
     assert set(got) == {'session:s1', 'project:a:2026-11-07', 'model:fable:2026-11-07'}, got
-    assert '£10.50' in got['session:s1'] and '/graphify' in got['session:s1']
+    assert '£10.50' in got['session:s1'] and "'Graphify run / /graphify' in a" in got['session:s1']
     assert '£11.25' in got['project:a:2026-11-07']
     print('selftest ok')
 

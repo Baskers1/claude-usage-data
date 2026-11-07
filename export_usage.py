@@ -116,6 +116,12 @@ def clean_label(names):
     return ' '.join(out[:2])
 
 
+def clean_name(text):
+    """Session name (your /rename title, else Claude Code's own short title), made CSV- and markdown-safe."""
+    t = re.sub(r'[\r\n\t,"`|<>]+', ' ', text or '')
+    return re.sub(r'\s+', ' ', t).strip()[:60]
+
+
 def export_sessions():
     cut = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=DAYS)
     seen, sess = set(), {}
@@ -125,7 +131,7 @@ def export_sessions():
         parts = os.path.relpath(path, PROJECTS).split(os.sep)
         sid = parts[1].replace('.jsonl', '')
         sub = '/subagents/' in path
-        s = sess.setdefault(sid, {'project': project_name(parts[0]), 'start': None, 'names': [], 'req': 0,
+        s = sess.setdefault(sid, {'project': project_name(parts[0]), 'start': None, 'names': [], 'title': '', 'custom': '', 'req': 0,
                                   'tokens': 0, 'cost': 0.0, 'fable': 0.0, 'sub': 0.0, 'by_model': collections.Counter()})
         with open(path, errors='ignore') as fh:
             for line in fh:
@@ -133,6 +139,10 @@ def export_sessions():
                     d = json.loads(line)
                 except ValueError:
                     continue
+                if d.get('type') == 'ai-title' and d.get('aiTitle'):
+                    s['title'] = d['aiTitle']
+                if d.get('type') == 'custom-title' and d.get('customTitle'):
+                    s['custom'] = d['customTitle']
                 m = d.get('message')
                 if not isinstance(m, dict):
                     continue
@@ -169,9 +179,9 @@ def export_sessions():
     rows = sorted(rows, key=lambda r: r[1]['cost'], reverse=True)[:150]  # shortcut: top 150 by cost keeps the feed issue under its size limit
     with open(os.path.join(OUT, 'sessions.csv'), 'w', newline='') as fh:
         w = csv.writer(fh, lineterminator='\n')
-        w.writerow(['session', 'start', 'project', 'label', 'main_model', 'requests', 'tokens', 'cost_usd', 'fable_usd', 'subagent_usd'])
+        w.writerow(['session', 'start', 'project', 'name', 'label', 'main_model', 'requests', 'tokens', 'cost_usd', 'fable_usd', 'subagent_usd'])
         for sid, s in sorted(rows, key=lambda r: r[1]['start']):
-            w.writerow([sid[:8], s['start'], s['project'], clean_label(s['names']), s['by_model'].most_common(1)[0][0],
+            w.writerow([sid[:8], s['start'], s['project'], clean_name(s['custom'] or s['title']), clean_label(s['names']), s['by_model'].most_common(1)[0][0],
                         s['req'], s['tokens'], round(s['cost'], 4), round(s['fable'], 4), round(s['sub'], 4)])
     return len(rows)
 
@@ -207,6 +217,8 @@ def selftest():
     assert project_name('-private-var-folders-kz') == 'temp'
     assert clean_label(['/review', 'graphify', '/review', 'a,b"<x>', 'x y']) == '/review graphify'
     assert clean_label(['hello, world; rm -rf']) == 'helloworldrm-rf'
+    assert clean_name('Fix, "menu"\nwatch `x`') == 'Fix menu watch x'
+    assert clean_name(None) == ''
     print('selftest ok')
 
 
