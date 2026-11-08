@@ -121,3 +121,5 @@ c06b0aee,2026-11-07T10:32,.claude,Graphify codebase queries,/graphify,haiku,100,
 661a9b1a,2026-11-07T11:49,.claude,Motion-prompt library,motion-prompt,opus,128,27520444,27.0179,0.0,15.8756
 cafbb538,2026-11-07T12:42,.claude,ai-second-brain skill clone,/plugin /reload-plugins,opus,36,3283200,2.4972,0.0,0.0
 f4ac849a,2026-11-08T00:12,dashboards,Session turn count script,,haiku,4,203230,0.2609,0.0,0.0
+a52c6489,2026-11-08T02:13,.claude,Remove playwright MCP server scope,/plugin /reload-plugins,opus,18,1904969,1.9187,0.0,0.0
+497e5af8,2026-11-08T02:29,Obsidian,Wiki ingest,claude-obsidian:wiki-ingest,sonnet,37,4049458,0.8403,0.0,0.0
