@@ -125,3 +125,5 @@ a52c6489,2026-11-08T02:13,.claude,Remove playwright MCP server scope,/plugin /re
 497e5af8,2026-11-08T02:29,Obsidian,Wiki ingest,claude-obsidian:wiki-ingest,sonnet,37,4049458,0.8403,0.0,0.0
 360577be,2026-11-08T11:18,.claude,Token-doctor installation,,haiku,4,244354,0.171,0.0,0.0
 9211f009,2026-11-08T11:19,dashboards,Token doctor spend diagnosis,/token-doctor,opus,290,29219879,37.6329,0.0,32.2182
+f53d006c,2026-11-08T21:22,Obsidian,Wiki-ingest for Obsidian vault,/claude-obsidian:wiki-ingest /claude-obsidian:wiki-lint,opus,65,5833478,3.1229,0.0,0.0
+6513dadd,2026-11-08T21:44,Obsidian,Obsidian CLI vault management,/reload-plugins /obsidian-cli,opus,25,1835125,1.3305,0.0,0.0
