@@ -257,3 +257,4 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-09T09,Obsidian,sonnet,95,20916,248749,5907966,48,2.0128
 2026-11-09T09,home,opus,52,10294,88704,2322553,24,1.9733
 2026-11-09T09,home,sonnet,8,1319,105292,308765,4,0.3382
+2026-11-09T10,home,haiku,34,535,78600,233492,4,0.1243
