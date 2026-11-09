@@ -142,3 +142,5 @@ faa4c434,2026-11-09T09:09,Obsidian,Wiki ingest inbox count,handoff:save /mcp,son
 aede578e,2026-11-09T11:14,dashboards-source,,,sonnet,4,580757,0.2418,0.0,0.0
 fdce6b7b,2026-11-09T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,14,1027391,0.3573,0.0,0.0
 5c37a1e4,2026-11-09T17:02,home,Linux test VM on Mac,,opus,9,820628,1.1568,0.0,0.0
+181cb0d7,2026-11-09T23:07,dashboards-source,,,sonnet,2,289746,0.2099,0.0,0.0
+d45c784f,2026-11-09T23:11,Obsidian,Hidden duplicate plugin server connectors,/plugin /reload-plugins,haiku,2,112684,0.1444,0.0,0.0
