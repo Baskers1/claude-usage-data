@@ -132,6 +132,9 @@ aefc623e,2026-11-08T22:39,.claude,Onetake skill clone,/reload-plugins,haiku,22,1
 f94bbbf6,2026-11-08T22:50,.claude,X-Wing teardown simulator,/reload-skills /reload-plugins,opus,18,2127027,3.7223,0.0,0.0
 251a478b,2026-11-08T23:12,.claude,Handy app installation,/plugin /reload-plugins,opus,5,367274,0.496,0.0,0.0
 188bc7d9,2026-11-08T23:29,dashboards-source,,/anthropic-skills:finish-the-job,sonnet,20,3167524,0.6394,0.0,0.0
-c51c1128,2026-11-08T23:36,dashboards-source,,/ian-xiaohei-illustrations,sonnet,9,1295332,0.3306,0.0,0.0
+c51c1128,2026-11-08T23:36,dashboards-source,handoff-xiahei,/ian-xiaohei-illustrations /anthropic-skills:session-wrap-up,sonnet,30,4581219,1.1591,0.0,0.0
 ab9e51d9,2026-11-08T23:39,.claude,Ian-xiaohei-illustrations repository,,opus,10,752081,1.1096,0.0,0.0
 ba6541ae,2026-11-09T00:02,.claude,Motion-graphics-skill plugin marketplace,/plugin,sonnet,6,382066,0.3215,0.0,0.0
+ea8a2a55,2026-11-09T00:31,.claude,Anatomy skill for Claude Code,/plugin /reload-plugins,opus,13,837571,0.771,0.0,0.0
+175eef56,2026-11-09T00:56,dashboards-source,,,sonnet,11,1637895,0.3656,0.0,0.0
+d53992d3,2026-11-09T01:01,dashboards-source,,,sonnet,2,282300,0.1729,0.0,0.0
