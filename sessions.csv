@@ -30,7 +30,6 @@ a145bf45,2026-10-07T09:50,.claude,Claude skills installation,/reload-plugins /re
 d2a6f815,2026-10-08T13:01,.claude,Laya-coreml GitHub repository,,opus,25,7318601,4.1752,0.0,0.0
 be1cca74,2026-10-09T09:23,.claude,Tavily agent setup skill,/plugin /reload-plugins,opus,11,6504127,4.2444,0.0,0.0
 a95a7499,2026-10-10T10:37,.claude,WCAG accessibility review agent,/agents schedule,opus,69,16850679,8.583,0.0,0.0
-e38115bc,2026-10-10T12:21,.claude,,,haiku,1,274295,0.1792,0.0,0.0
 f3932e2f,2026-10-10T19:39,.claude,Jev_doctor,/reload-plugins,opus,4,1147198,1.6262,0.0,0.0
 5db8830c,2026-10-10T19:46,.claude,Jev doctor,/plugin /reload-plugins,opus,6,1782149,2.9772,0.0,0.0
 f1964987,2026-10-10T20:32,.claude-skills,,/reload-plugins /plugin,haiku,1,267999,0.1706,0.0,0.0
@@ -140,3 +139,4 @@ ea8a2a55,2026-11-09T00:31,.claude,Anatomy skill for Claude Code,/plugin /reload-
 d53992d3,2026-11-09T01:01,dashboards-source,,,sonnet,2,282300,0.1729,0.0,0.0
 dd0c887e,2026-11-09T09:06,home,Linux VM for running repo tests,cua-sandboxes,opus,32,3149648,2.4358,0.0,0.0
 faa4c434,2026-11-09T09:09,Obsidian,Wiki ingest inbox count,handoff:save,sonnet,66,7819800,3.814,0.0,0.0
+aede578e,2026-11-09T11:14,dashboards-source,,,sonnet,4,580757,0.2418,0.0,0.0
