@@ -138,7 +138,7 @@ ea8a2a55,2026-11-09T00:31,.claude,Anatomy skill for Claude Code,/plugin /reload-
 175eef56,2026-11-09T00:56,dashboards-source,,,sonnet,11,1637895,0.3656,0.0,0.0
 d53992d3,2026-11-09T01:01,dashboards-source,,,sonnet,2,282300,0.1729,0.0,0.0
 dd0c887e,2026-11-09T09:06,home,Linux VM for running repo tests,cua-sandboxes,opus,32,3149648,2.4358,0.0,0.0
-faa4c434,2026-11-09T09:09,Obsidian,Wiki ingest inbox count,handoff:save,sonnet,66,7819800,3.814,0.0,0.0
+faa4c434,2026-11-09T09:09,Obsidian,Wiki ingest inbox count,handoff:save /mcp,sonnet,66,7819800,3.814,0.0,0.0
 aede578e,2026-11-09T11:14,dashboards-source,,,sonnet,4,580757,0.2418,0.0,0.0
 fdce6b7b,2026-11-09T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,14,1027391,0.3573,0.0,0.0
-5c37a1e4,2026-11-09T17:02,home,Linux test VM on Mac,,opus,5,479363,0.6127,0.0,0.0
+5c37a1e4,2026-11-09T17:02,home,Linux test VM on Mac,,opus,9,820628,1.1568,0.0,0.0
