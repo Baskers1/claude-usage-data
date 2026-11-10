@@ -32,17 +32,13 @@ be1cca74,2026-10-09T09:23,.claude,Tavily agent setup skill,/plugin /reload-plugi
 a95a7499,2026-10-10T10:37,.claude,WCAG accessibility review agent,/agents schedule,opus,69,16850679,8.583,0.0,0.0
 f3932e2f,2026-10-10T19:39,.claude,Jev_doctor,/reload-plugins,opus,4,1147198,1.6262,0.0,0.0
 5db8830c,2026-10-10T19:46,.claude,Jev doctor,/plugin /reload-plugins,opus,6,1782149,2.9772,0.0,0.0
-f1964987,2026-10-10T20:32,.claude-skills,,/reload-plugins /plugin,haiku,1,267999,0.1706,0.0,0.0
 fdd96d51,2026-10-10T20:33,.claude,Fast-jev-compaction repository,,opus,15,4392677,2.2379,0.0,0.0
 82e4fdf7,2026-10-10T20:50,.claude,JevDemo build script,/plugin /reload-plugins,opus,31,9276043,3.3307,0.0,0.0
 e59d907a,2026-10-10T21:55,.claude,Archcore:init deletion,,opus,11,3216789,1.9395,0.0,0.0
 2e1e9659,2026-10-10T22:01,.claude,Jev_doctor run,/plugin,opus,11,2921060,2.9332,0.0,0.0
-6d7a4f94,2026-10-10T22:02,.claude,,,haiku,1,271026,0.172,0.0,0.0
 3dd8d62a,2026-10-10T22:30,Desktop-jev-router,,,haiku,4,789991,0.3127,0.0,0.0
-560ba5c0,2026-10-10T22:31,Desktop-jev-router,,,haiku,1,263698,0.1571,0.0,0.0
 2c3f4d66,2026-10-10T22:34,Desktop-jev-router,,,opus,2,543637,1.2722,0.0,0.0
 1f46e9fd,2026-10-10T22:37,Desktop-jev-router,,,haiku,7,1377380,0.3368,0.0,0.0
-e22535cc,2026-10-10T22:38,Desktop-jev-router,,,haiku,1,261660,0.1537,0.0,0.0
 e53961c1,2026-10-11T10:29,.claude,Repo creation completed,,opus,35,11206392,4.3673,0.0,0.0
 3df9a770,2026-10-11T10:56,.claude,Unused MCP servers disabling,,opus,19,5460516,2.7336,0.0,0.0
 5468c299,2026-10-11T11:06,.claude,,,opus,3,548363,0.8761,0.0,0.0
@@ -142,5 +138,6 @@ faa4c434,2026-11-09T09:09,Obsidian,Wiki ingest inbox count,handoff:save /mcp,son
 aede578e,2026-11-09T11:14,dashboards-source,,,sonnet,4,580757,0.2418,0.0,0.0
 fdce6b7b,2026-11-09T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,14,1027391,0.3573,0.0,0.0
 5c37a1e4,2026-11-09T17:02,home,Linux test VM on Mac,,opus,9,820628,1.1568,0.0,0.0
-181cb0d7,2026-11-09T23:07,dashboards-source,,,sonnet,2,289746,0.2099,0.0,0.0
-d45c784f,2026-11-09T23:11,Obsidian,Hidden duplicate plugin server connectors,/plugin /reload-plugins,haiku,2,112684,0.1444,0.0,0.0
+181cb0d7,2026-11-09T23:07,dashboards-source,,,sonnet,5,731682,0.2649,0.0,0.0
+d45c784f,2026-11-09T23:11,Obsidian,Hidden duplicate plugin server connectors,/plugin /reload-plugins,sonnet,48,3609343,1.397,0.0,0.1905
+a97e6acf,2026-11-09T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,5,310605,0.1721,0.0,0.0
