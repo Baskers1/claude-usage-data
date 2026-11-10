@@ -268,5 +268,6 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-10T08,Obsidian-second-brain,opus,94,36156,236983,5773828,45,5.2724
 2026-11-10T16,Obsidian-second-brain,haiku,120,4443,194762,1105743,13,0.3764
 2026-11-10T16,Obsidian-second-brain,opus,60,34148,115009,3226477,28,3.186
-2026-11-10T17,Obsidian-second-brain,haiku,108,7918,65041,928309,13,0.2138
-2026-11-10T17,Obsidian-second-brain,opus,142,172149,932038,6597756,67,13.4286
+2026-11-10T17,Obsidian-second-brain,haiku,148,10128,265961,1231201,17,0.5064
+2026-11-10T17,Obsidian-second-brain,opus,314,382558,1873538,19309479,149,30.9299
+2026-11-10T17,Obsidian-second-brain,sonnet,6,3565,79858,141685,3,0.2636
