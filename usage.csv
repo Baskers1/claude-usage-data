@@ -281,7 +281,14 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-11T09,dashboards,opus,54,17917,420030,3129819,26,4.6383
 2026-11-11T11,dashboards-efficiency-scrapekit,haiku,74,6908,86751,618113,9,0.2049
 2026-11-11T11,dashboards-efficiency-scrapekit,opus,40,6782,236280,1509255,19,2.4011
-2026-11-11T12,.claude,haiku,140,3222,148138,860260,14,0.2874
+2026-11-11T12,.claude,haiku,214,5737,200341,1498582,23,0.4292
+2026-11-11T12,Obsidian,haiku,192,5261,139713,1227896,20,0.3239
+2026-11-11T12,Obsidian,opus,8,2347,106940,308532,4,0.8814
 2026-11-11T12,Obsidian,sonnet,16,3133,95460,639104,8,0.3978
-2026-11-11T12,dashboards-efficiency-scrapekit,haiku,66,2621,90756,788673,8,0.2055
-2026-11-11T12,dashboards-efficiency-scrapekit,opus,110,104516,549915,6776078,49,9.4385
+2026-11-11T12,dashboards-efficiency-scrapekit,haiku,322,16711,261654,4845993,39,0.8955
+2026-11-11T12,dashboards-efficiency-scrapekit,opus,208,138441,763982,17243089,96,16.8585
+2026-11-11T12,dashboards-efficiency-scrapekit,sonnet,8,1086,221261,658570,4,0.6957
+2026-11-11T13,Obsidian,haiku,20,810,61916,61420,2,0.0876
+2026-11-11T13,Obsidian-second-brain,haiku,10,1432,64032,20794,1,0.0893
+2026-11-11T13,Obsidian-second-brain,opus,36,19753,180569,1715040,17,2.4801
+2026-11-11T13,Obsidian-second-brain,sonnet,12,1453,59383,284911,5,0.1915
