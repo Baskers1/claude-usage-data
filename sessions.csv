@@ -115,7 +115,6 @@ cafbb538,2026-11-07T12:42,.claude,ai-second-brain skill clone,/plugin /reload-pl
 f4ac849a,2026-11-08T00:12,dashboards,Session turn count script,,haiku,4,203230,0.2609,0.0,0.0
 a52c6489,2026-11-08T02:13,.claude,Remove playwright MCP server scope,/plugin /reload-plugins,opus,18,1904969,1.9187,0.0,0.0
 497e5af8,2026-11-08T02:29,Obsidian,Wiki ingest,claude-obsidian:wiki-ingest,sonnet,37,4049458,0.8403,0.0,0.0
-360577be,2026-11-08T11:18,.claude,Token-doctor installation,,haiku,4,244354,0.171,0.0,0.0
 9211f009,2026-11-08T11:19,dashboards,Token doctor spend diagnosis,/token-doctor,opus,290,29219879,37.6329,0.0,32.2182
 f53d006c,2026-11-08T21:22,Obsidian,Wiki-ingest for Obsidian vault,/claude-obsidian:wiki-ingest /claude-obsidian:wiki-lint,opus,65,5833478,3.1229,0.0,0.0
 6513dadd,2026-11-08T21:44,Obsidian,Obsidian CLI vault management,/reload-plugins /obsidian-cli,opus,25,1835125,1.3305,0.0,0.0
@@ -137,7 +136,7 @@ fdce6b7b,2026-11-09T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,son
 5c37a1e4,2026-11-09T17:02,home,Linux test VM on Mac,,opus,9,820628,1.1568,0.0,0.0
 181cb0d7,2026-11-09T23:07,dashboards-source,,,sonnet,5,731682,0.2649,0.0,0.0
 d45c784f,2026-11-09T23:11,Obsidian,Hidden duplicate plugin server connectors,/plugin /reload-plugins,sonnet,64,4606289,1.6618,0.0,0.2703
-a97e6acf,2026-11-09T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,5,310605,0.1721,0.0,0.0
+b38abc0d,2026-11-10T00:45,Obsidian,run-wiki-lint-health-check,/claude-obsidian:wiki-lint,sonnet,10,853765,0.4868,0.0,0.0
 46b65e00,2026-11-10T08:23,Obsidian-second-brain,Graphify query: Done workflow to memory folder,,opus,63,7641879,5.6832,0.0,0.0
 a69bdae6,2026-11-10T16:31,Obsidian-second-brain,Routine-notes skipped deletion,superpowers:systematic-debugging,opus,31,3636904,3.3171,0.0,0.0
 a6931dcd,2026-11-10T17:03,Obsidian-second-brain,Done workflow to memory folder,graphify context-handoff:handoff-save,opus,261,38698736,42.8946,0.0,27.9543
@@ -147,5 +146,6 @@ f8e8fa68,2026-11-10T23:45,Obsidian-second-brain,Graphify codebase graph,/graphif
 ef65a2f9,2026-11-11T01:04,dashboards-source,,,sonnet,3,481299,0.277,0.0,0.0
 385e5b81,2026-11-11T01:05,dashboards-source,,,sonnet,2,304350,0.1989,0.0,0.0
 3ec896ef,2026-11-11T08:50,dashboards,Graphify codebase graph,/graphify,opus,44,5538182,7.7388,0.0,4.2033
-7d39be34,2026-11-11T09:05,.claude,Remotion repository clone,,haiku,33,2172812,0.5092,0.0,0.0
+7d39be34,2026-11-11T09:05,.claude,Remotion repository clone,,haiku,47,3184572,0.7966,0.0,0.0
 4dd1f6f3,2026-11-11T09:41,dashboards,Graphify codebase graph,/graphify,opus,3,304300,0.6008,0.0,0.0
+aff552de,2026-11-11T11:56,dashboards-efficiency-scrapekit,Graphify codebase graph,/graphify,opus,85,10776938,12.2499,0.0,8.1308

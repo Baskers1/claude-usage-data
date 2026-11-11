@@ -279,3 +279,9 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-11T09,.claude,haiku,252,4214,48032,1876098,30,0.269
 2026-11-11T09,.claude,sonnet,6,283,81993,161934,3,0.2402
 2026-11-11T09,dashboards,opus,54,17917,420030,3129819,26,4.6383
+2026-11-11T11,dashboards-efficiency-scrapekit,haiku,74,6908,86751,618113,9,0.2049
+2026-11-11T11,dashboards-efficiency-scrapekit,opus,40,6782,236280,1509255,19,2.4011
+2026-11-11T12,.claude,haiku,140,3222,148138,860260,14,0.2874
+2026-11-11T12,Obsidian,sonnet,16,3133,95460,639104,8,0.3978
+2026-11-11T12,dashboards-efficiency-scrapekit,haiku,66,2621,90756,788673,8,0.2055
+2026-11-11T12,dashboards-efficiency-scrapekit,opus,110,104516,549915,6776078,49,9.4385
