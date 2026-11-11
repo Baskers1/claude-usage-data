@@ -65,7 +65,6 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-10-11T19,.claude,haiku,20,694,389100,0,2,0.4899
 2026-10-12T08,.claude,haiku,252,8640,301501,4058817,29,0.8262
 2026-10-12T08,.claude,sonnet,8,1338,215103,641610,4,0.6795
-2026-10-12T08,.claude-mem-observer-sessions,haiku,3,657,22459,0,1,0.0314
 2026-10-13T13,.claude,fable,12,2409,192573,948648,6,2.7649
 2026-10-13T13,.claude,haiku,272,11378,737262,4776905,31,1.4564
 2026-10-13T16,.claude,haiku,72,3240,373343,764541,8,0.5594
@@ -276,3 +275,7 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-11T00,Obsidian-second-brain,opus,172,72270,1107737,12062063,83,14.762
 2026-11-11T00,dashboards-source,opus,22,9561,89342,1093430,11,1.3442
 2026-11-11T01,dashboards-source,sonnet,10,700,162676,622263,5,0.4759
+2026-11-11T08,dashboards,opus,44,59922,190567,2024129,21,3.7014
+2026-11-11T09,.claude,haiku,252,4214,48032,1876098,30,0.269
+2026-11-11T09,.claude,sonnet,6,283,81993,161934,3,0.2402
+2026-11-11T09,dashboards,opus,48,16673,347301,2899498,23,4.0374

@@ -100,10 +100,8 @@ cc494224,2026-11-01T13:01,home,Telemetry run,session-metrics:session-metrics,hai
 cfa0e1ae,2026-11-01T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,15,1036592,0.3343,0.0,0.0
 2d205d85,2026-11-02T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,12,764967,0.2866,0.0,0.0
 0d6c8b9e,2026-11-02T23:17,Obsidian,task,claude-obsidian:wiki-lint /claude-obsidian:wiki-ingest,opus,91,9308817,6.8191,1.4269,0.0
-0a0f200f,2026-11-02T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,4,218129,0.1385,0.0,0.0
 760c4bf2,2026-11-03T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,25,1834584,0.4782,0.0,0.0
 8a2a0db4,2026-11-03T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,17,1265003,0.4539,0.0,0.0
-9f49a605,2026-11-03T23:40,Obsidian,,,haiku,2,108736,0.1374,0.0,0.0
 af20eb96,2026-11-06T08:38,.claude,Prompts.chat self-hosting setup,/login,fable,12,822922,1.4272,1.2207,0.0
 d5408350,2026-11-06T09:22,dashboards-source,Repo efficiency review,ponytail:ponytail-audit,fable,142,14703959,15.6346,15.6346,10.6263
 4b90851a,2026-11-06T09:42,dashboards-efficiency,Run_ratings.sh and amm_watch.py rollback,/goal,opus,22,2399071,2.5339,0.0,0.0
@@ -149,3 +147,5 @@ f8e8fa68,2026-11-10T23:45,Obsidian-second-brain,Graphify codebase graph,/graphif
 146256ba,2026-11-11T00:56,dashboards-source,Graphify codebase graph,/graphify,opus,11,1192355,1.3442,0.0,0.0
 ef65a2f9,2026-11-11T01:04,dashboards-source,,,sonnet,3,481299,0.277,0.0,0.0
 385e5b81,2026-11-11T01:05,dashboards-source,,,sonnet,2,304350,0.1989,0.0,0.0
+3ec896ef,2026-11-11T08:50,dashboards,Graphify codebase graph,/graphify,opus,44,5538182,7.7388,0.0,4.2033
+7d39be34,2026-11-11T09:05,.claude,Remotion repository clone,,haiku,33,2172812,0.5092,0.0,0.0
