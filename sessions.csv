@@ -70,7 +70,6 @@ c7e9f219,2026-10-28T15:23,Obsidian-second-brain,Wiki-ingest for second-brain-art
 f0a5628f,2026-10-28T15:53,Obsidian-second-brain,Index-first reading and MCP critiques,/effort,fable,10,566195,1.8592,1.8592,0.424
 1f6e8b89,2026-10-28T16:03,Obsidian-second-brain,Index-first reading and MCP disagreements,,fable,9,547010,1.8084,1.8084,0.3593
 6476a796,2026-10-28T16:06,Obsidian-second-brain,Index-first reading and MCP disagreements,,fable,8,530529,1.4349,1.4349,0.4534
-d3b30b73,2026-10-28T16:12,Obsidian-second-brain,Index-first reading and MCP critics,,sonnet,6,336078,0.1889,0.0,0.004
 cde1e510,2026-10-28T16:24,Obsidian-second-brain,Ledger left empty note,/effort /claude-obsidian:wiki-ingest,sonnet,24,2893181,0.6826,0.0,0.0
 89e2521c,2026-10-28T16:50,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,12,1100005,0.4451,0.0,0.0
 a6b79275,2026-10-28T17:11,dashboards-source-tokenledger,Graphify MCP server setup,,haiku,11,903074,0.3076,0.0,0.0
@@ -148,4 +147,5 @@ ef65a2f9,2026-11-11T01:04,dashboards-source,,,sonnet,3,481299,0.277,0.0,0.0
 aff552de,2026-11-11T11:56,dashboards-efficiency-scrapekit,Graphify codebase graph,/graphify handoff-productivity:cs-handoff-author,opus,167,26615528,21.0558,0.0,8.1308
 2ae70210,2026-11-11T12:59,Obsidian,Merge origin/main,/ponytail:ponytail,haiku,12,765006,0.2344,0.0,0.0
 5c6335e4,2026-11-11T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,5,345759,0.1915,0.0,0.0
-2138baec,2026-11-11T13:10,Obsidian-second-brain,Weekly vault check,,opus,18,2001666,2.5694,0.0,0.0
+2138baec,2026-11-11T13:10,Obsidian-second-brain,Weekly vault check,,opus,50,5634209,3.5839,0.0,0.0
+475e331a,2026-11-11T13:21,Obsidian-second-brain,Graphify update and nightly-ingest check,graphify,opus,47,6162300,7.4422,0.0,2.935
