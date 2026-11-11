@@ -60,7 +60,6 @@ acfa3839,2026-10-21T12:28,.claude,GitHub check,/ponytail:ponytail,haiku,67,67725
 c66c6423,2026-10-21T23:03,.claude,claude-howto repository clone,,haiku,9,741883,0.185,0.0,0.0
 d251d782,2026-10-21T23:14,.claude,Enabling cc-plugin-you-should-know builtin plugin,/plugin /reload-plugins,fable,19,2194238,2.6961,2.5628,0.0
 ae4f385c,2026-10-22T08:33,.claude,Graphify /graphify,/graphify,fable,130,24903144,28.4896,23.4455,6.0729
-1278d4d2,2026-10-23T08:25,.claude,Tokenledger claude-telemetry script,,haiku,8,654547,0.1686,0.0,0.0
 23a58246,2026-10-23T08:34,dashboards-source-tokenledger,,,opus,1,79674,0.4983,0.0,0.0
 ee4184fd,2026-10-23T08:34,dashboards-source-tokenledger,,,opus,1,79674,0.376,0.0,0.0
 f25ddf0b,2026-10-23T08:44,dashboards-source-tokenledger,,,opus,1,49219,0.3088,0.0,0.0
@@ -149,3 +148,4 @@ ef65a2f9,2026-11-11T01:04,dashboards-source,,,sonnet,3,481299,0.277,0.0,0.0
 385e5b81,2026-11-11T01:05,dashboards-source,,,sonnet,2,304350,0.1989,0.0,0.0
 3ec896ef,2026-11-11T08:50,dashboards,Graphify codebase graph,/graphify,opus,44,5538182,7.7388,0.0,4.2033
 7d39be34,2026-11-11T09:05,.claude,Remotion repository clone,,haiku,33,2172812,0.5092,0.0,0.0
+4dd1f6f3,2026-11-11T09:41,dashboards,Graphify codebase graph,/graphify,opus,3,304300,0.6008,0.0,0.0

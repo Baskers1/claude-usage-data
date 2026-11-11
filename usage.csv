@@ -278,4 +278,4 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-11T08,dashboards,opus,44,59922,190567,2024129,21,3.7014
 2026-11-11T09,.claude,haiku,252,4214,48032,1876098,30,0.269
 2026-11-11T09,.claude,sonnet,6,283,81993,161934,3,0.2402
-2026-11-11T09,dashboards,opus,48,16673,347301,2899498,23,4.0374
+2026-11-11T09,dashboards,opus,54,17917,420030,3129819,26,4.6383
