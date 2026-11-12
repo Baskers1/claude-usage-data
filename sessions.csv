@@ -143,9 +143,9 @@ ef65a2f9,2026-11-11T01:04,dashboards-source,,,sonnet,3,481299,0.277,0.0,0.0
 7d39be34,2026-11-11T09:05,.claude,Remotion repository clone,,haiku,56,3877686,0.9384,0.0,0.0
 4dd1f6f3,2026-11-11T09:41,dashboards,Graphify codebase graph,/graphify,opus,3,304300,0.6008,0.0,0.0
 aff552de,2026-11-11T11:56,dashboards-efficiency-scrapekit,Graphify codebase graph,/graphify handoff-productivity:cs-handoff-author,opus,167,26615528,21.0558,0.0,8.1308
-2ae70210,2026-11-11T12:59,Obsidian,Merge origin/main,/ponytail:ponytail,haiku,12,765006,0.2344,0.0,0.0
 2138baec,2026-11-11T13:10,Obsidian-second-brain,Weekly vault check,,opus,50,5634209,3.5839,0.0,0.0
 475e331a,2026-11-11T13:21,Obsidian-second-brain,Graphify update and nightly-ingest check,graphify,opus,47,6162300,7.4422,0.0,2.935
 fb9f0315,2026-11-11T22:34,Obsidian-second-brain,Scheduled jobs on the iMac,,opus,11,1021212,1.2912,0.0,0.0
 c4c4242d,2026-11-11T22:38,Obsidian-second-brain,Nightly ingest 10 November incident,,opus,8,842213,1.0493,0.0,0.0
 f4949a29,2026-11-11T22:41,Obsidian-second-brain,Model choice for ingest and lint,,sonnet,2,177712,0.4455,0.0,0.0
+f666a368,2026-11-11T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,16,1393297,0.4218,0.0,0.0
