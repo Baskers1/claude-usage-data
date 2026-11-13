@@ -89,9 +89,7 @@ d14e8479,2026-10-30T23:31,Projects-baskers-website,Baskers.net FTP deploy workfl
 b5f4ebe0,2026-10-31T11:20,.claude,DannyMac180/sol-advisor,,sonnet,9,598316,0.4212,0.0,0.0
 4dd48ad7,2026-10-31T11:22,.claude,session,/poster-design-studio:poster-design-stud,opus,28,2068712,1.3413,0.0,0.0
 680b316e,2026-11-01T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,13,882232,0.3311,0.0,0.0
-cc494224,2026-11-01T13:01,home,Telemetry run,session-metrics:session-metrics,haiku,7,466599,0.284,0.0,0.0
 cfa0e1ae,2026-11-01T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,15,1036592,0.3343,0.0,0.0
-2d205d85,2026-11-02T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,12,764967,0.2866,0.0,0.0
 0d6c8b9e,2026-11-02T23:17,Obsidian,task,claude-obsidian:wiki-lint /claude-obsidian:wiki-ingest,opus,91,9308817,6.8191,1.4269,0.0
 760c4bf2,2026-11-03T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,25,1834584,0.4782,0.0,0.0
 8a2a0db4,2026-11-03T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,17,1265003,0.4539,0.0,0.0
@@ -149,3 +147,5 @@ b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,o
 974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
 34e78e97,2026-11-12T15:14,Obsidian-second-brain,Ingest and lint model choice,,sonnet,2,177662,0.4455,0.0,0.0
 50b4382a,2026-11-12T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,15,1266929,0.4238,0.0,0.0
+8fbb9085,2026-11-13T11:05,Obsidian-second-brain,Scheduled jobs on the iMac,,opus,2,173232,0.3625,0.0,0.0
+53b1a6b1,2026-11-13T11:06,Obsidian-second-brain,DIRECT-T2 nightly ingest 10 November,,opus,3,260770,0.3751,0.0,0.0
