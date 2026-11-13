@@ -133,7 +133,6 @@ a6931dcd,2026-11-10T17:03,Obsidian-second-brain,Done workflow to memory folder,g
 68183466,2026-11-10T23:33,dashboards-source,,,sonnet,2,327914,0.2925,0.0,0.0
 f8e8fa68,2026-11-10T23:45,Obsidian-second-brain,Graphify codebase graph,/graphify handoff-productivity:session-handoff,opus,192,26731961,22.6054,0.0,7.3392
 146256ba,2026-11-11T00:56,dashboards-source,Graphify codebase graph,/graphify,opus,11,1192355,1.3442,0.0,0.0
-ef65a2f9,2026-11-11T01:04,dashboards-source,,,sonnet,3,481299,0.277,0.0,0.0
 3ec896ef,2026-11-11T08:50,dashboards,Graphify codebase graph,/graphify,opus,44,5538182,7.7388,0.0,4.2033
 7d39be34,2026-11-11T09:05,.claude,Remotion repository clone,,haiku,56,3877686,0.9384,0.0,0.0
 4dd1f6f3,2026-11-11T09:41,dashboards,Graphify codebase graph,/graphify,opus,3,304300,0.6008,0.0,0.0
@@ -149,3 +148,4 @@ f21d4d78,2026-11-12T14:06,Obsidian-second-brain,Staging wiki Maps.base,,opus,12,
 b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,opus,28,1931299,0.8462,0.0,0.0
 974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
 34e78e97,2026-11-12T15:14,Obsidian-second-brain,Ingest and lint model choice,,sonnet,2,177662,0.4455,0.0,0.0
+50b4382a,2026-11-12T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,15,1266929,0.4238,0.0,0.0
