@@ -60,7 +60,6 @@ d251d782,2026-10-21T23:14,.claude,Enabling cc-plugin-you-should-know builtin plu
 ae4f385c,2026-10-22T08:33,.claude,Graphify /graphify,/graphify,fable,130,24903144,28.4896,23.4455,6.0729
 23a58246,2026-10-23T08:34,dashboards-source-tokenledger,,,opus,1,79674,0.4983,0.0,0.0
 ee4184fd,2026-10-23T08:34,dashboards-source-tokenledger,,,opus,1,79674,0.376,0.0,0.0
-f25ddf0b,2026-10-23T08:44,dashboards-source-tokenledger,,,opus,1,49219,0.3088,0.0,0.0
 f52e50e2,2026-10-23T08:52,dashboards-source-tokenledger,,,opus,1,74077,0.3414,0.0,0.0
 bc7cdb83,2026-10-27T22:45,.claude,Claude Code telemetry collector,/graphify,fable,50,6611223,6.177,3.2653,1.4729
 5eb99887,2026-10-28T14:43,Obsidian-second-brain,Claude-obsidian vault scaffold commit,claude-obsidian:wiki,haiku,50,4422182,1.0863,0.0,0.0
@@ -70,7 +69,6 @@ f0a5628f,2026-10-28T15:53,Obsidian-second-brain,Index-first reading and MCP crit
 6476a796,2026-10-28T16:06,Obsidian-second-brain,Index-first reading and MCP disagreements,,fable,8,530529,1.4349,1.4349,0.4534
 cde1e510,2026-10-28T16:24,Obsidian-second-brain,Ledger left empty note,/effort /claude-obsidian:wiki-ingest,sonnet,24,2893181,0.6826,0.0,0.0
 89e2521c,2026-10-28T16:50,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,12,1100005,0.4451,0.0,0.0
-a6b79275,2026-10-28T17:11,dashboards-source-tokenledger,Graphify MCP server setup,,haiku,11,903074,0.3076,0.0,0.0
 c8333d13,2026-10-28T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,12,1204325,0.5641,0.0,0.0
 c5978cd4,2026-10-29T00:54,dashboards-source-tokenledger,Claude-mem install,,haiku,15,1156959,0.3129,0.0,0.0
 1fd82538,2026-10-29T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,19,1862036,0.6707,0.0,0.0
@@ -149,3 +147,5 @@ b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,o
 53b1a6b1,2026-11-13T11:06,Obsidian-second-brain,DIRECT-T2 nightly ingest 10 November,,opus,3,260770,0.3751,0.0,0.0
 a5085e5f,2026-11-14T13:26,Obsidian-second-brain,Txt to md rename script,,sonnet,2,190556,0.4821,0.0,0.0
 81e7cc2b,2026-11-14T13:30,Obsidian-second-brain,Txt to md rename script,,sonnet,2,181662,0.3305,0.0,0.0
+3bf6b0a4,2026-11-14T16:27,Obsidian-second-brain,Note-tagging tool architecture plan,,sonnet,5,444111,0.3108,0.0,0.0
+8da7b76a,2026-11-14T16:29,Obsidian-second-brain,Notes vault sync architecture,,opus,2,190338,0.8256,0.0,0.0

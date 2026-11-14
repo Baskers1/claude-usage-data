@@ -317,3 +317,6 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-14T09,.claude,haiku,66,1799,131870,294706,7,0.2034
 2026-11-14T13,Obsidian-second-brain,haiku,4,6,125260,54380,2,0.0162
 2026-11-14T13,Obsidian-second-brain,sonnet,16,2446,378327,208706,7,0.9912
+2026-11-14T16,Obsidian-second-brain,haiku,6,1127,66306,210630,3,0.011
+2026-11-14T16,Obsidian-second-brain,opus,4,8994,126960,54380,2,0.8256
+2026-11-14T16,Obsidian-second-brain,sonnet,4,2028,109630,54380,2,0.2998

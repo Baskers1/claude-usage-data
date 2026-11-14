@@ -13,6 +13,7 @@ DAYS = 90
 
 # USD per MTok: input, 5m cache write, cache read, output. Source: platform.claude.com/docs/en/about-claude/pricing (28 Oct 2026)
 PRICES = {
+    'fable-5-2': (8, 10, 0.20, 40),
     'fable-5-1': (10, 12.5, 0.25, 50), 'mythos-5-1': (10, 12.5, 0.25, 50),
     'fable-5': (10, 12.5, 1, 50), 'mythos-5': (10, 12.5, 1, 50),
     'opus-5-5': (4, 5, 0.20, 20), 'opus-5': (5, 6.25, 0.50, 25),
