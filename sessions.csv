@@ -36,7 +36,6 @@ fdd96d51,2026-10-10T20:33,.claude,Fast-jev-compaction repository,,opus,15,439267
 82e4fdf7,2026-10-10T20:50,.claude,JevDemo build script,/plugin /reload-plugins,opus,31,9276043,3.3307,0.0,0.0
 e59d907a,2026-10-10T21:55,.claude,Archcore:init deletion,,opus,11,3216789,1.9395,0.0,0.0
 2e1e9659,2026-10-10T22:01,.claude,Jev_doctor run,/plugin,opus,11,2921060,2.9332,0.0,0.0
-3dd8d62a,2026-10-10T22:30,Desktop-jev-router,,,haiku,4,789991,0.3127,0.0,0.0
 2c3f4d66,2026-10-10T22:34,Desktop-jev-router,,,opus,2,543637,1.2722,0.0,0.0
 1f46e9fd,2026-10-10T22:37,Desktop-jev-router,,,haiku,7,1377380,0.3368,0.0,0.0
 e53961c1,2026-10-11T10:29,.claude,Repo creation completed,,opus,35,11206392,4.3673,0.0,0.0
@@ -70,7 +69,6 @@ f0a5628f,2026-10-28T15:53,Obsidian-second-brain,Index-first reading and MCP crit
 cde1e510,2026-10-28T16:24,Obsidian-second-brain,Ledger left empty note,/effort /claude-obsidian:wiki-ingest,sonnet,24,2893181,0.6826,0.0,0.0
 89e2521c,2026-10-28T16:50,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,12,1100005,0.4451,0.0,0.0
 c8333d13,2026-10-28T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,12,1204325,0.5641,0.0,0.0
-c5978cd4,2026-10-29T00:54,dashboards-source-tokenledger,Claude-mem install,,haiku,15,1156959,0.3129,0.0,0.0
 1fd82538,2026-10-29T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,19,1862036,0.6707,0.0,0.0
 3a86c9db,2026-10-29T14:48,home,Claude telemetry,session-metrics:session-metrics /plugin,haiku,60,6511714,3.1861,0.0,0.0
 0b762fa3,2026-10-29T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,20,1907166,0.6103,0.0,0.0
@@ -147,5 +145,7 @@ b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,o
 53b1a6b1,2026-11-13T11:06,Obsidian-second-brain,DIRECT-T2 nightly ingest 10 November,,opus,3,260770,0.3751,0.0,0.0
 a5085e5f,2026-11-14T13:26,Obsidian-second-brain,Txt to md rename script,,sonnet,2,190556,0.4821,0.0,0.0
 81e7cc2b,2026-11-14T13:30,Obsidian-second-brain,Txt to md rename script,,sonnet,2,181662,0.3305,0.0,0.0
-3bf6b0a4,2026-11-14T16:27,Obsidian-second-brain,Note-tagging tool architecture plan,,sonnet,5,444111,0.3108,0.0,0.0
 8da7b76a,2026-11-14T16:29,Obsidian-second-brain,Notes vault sync architecture,,opus,2,190338,0.8256,0.0,0.0
+e78e3ce3,2026-11-14T17:31,other,,,fable,1,57878,0.4675,0.4675,0.0
+4cd247cd,2026-11-14T17:34,other,,,fable,1,57654,0.4127,0.4127,0.0
+25efe2b8,2026-11-14T17:37,.jarvis-workspace,Self-introduction speaker profile,,fable,1,31397,0.315,0.315,0.0
