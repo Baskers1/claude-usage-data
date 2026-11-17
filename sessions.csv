@@ -111,7 +111,6 @@ f94bbbf6,2026-11-08T22:50,.claude,X-Wing teardown simulator,/reload-skills /relo
 188bc7d9,2026-11-08T23:29,dashboards-source,,/anthropic-skills:finish-the-job,sonnet,24,3875592,0.975,0.0,0.0
 c51c1128,2026-11-08T23:36,dashboards-source,handoff-xiahei,/ian-xiaohei-illustrations /anthropic-skills:session-wrap-up,sonnet,30,4581219,1.1591,0.0,0.0
 ab9e51d9,2026-11-08T23:39,.claude,Ian-xiaohei-illustrations repository,,opus,10,752081,1.1096,0.0,0.0
-ba6541ae,2026-11-09T00:02,.claude,Motion-graphics-skill plugin marketplace,/plugin,sonnet,6,382066,0.3215,0.0,0.0
 ea8a2a55,2026-11-09T00:31,.claude,Anatomy skill for Claude Code,/plugin /reload-plugins,opus,13,837571,0.771,0.0,0.0
 175eef56,2026-11-09T00:56,dashboards-source,,,sonnet,11,1637895,0.3656,0.0,0.0
 dd0c887e,2026-11-09T09:06,home,Linux VM for running repo tests,cua-sandboxes,opus,32,3149648,2.4358,0.0,0.0
@@ -149,3 +148,4 @@ a5085e5f,2026-11-14T13:26,Obsidian-second-brain,Txt to md rename script,,sonnet,
 e78e3ce3,2026-11-14T17:31,other,,,fable,1,57878,0.4675,0.4675,0.0
 4cd247cd,2026-11-14T17:34,other,,,fable,1,57654,0.4127,0.4127,0.0
 f60e84db,2026-11-14T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,15,1303193,0.4264,0.0,0.0
+6a47bc96,2026-11-17T12:50,.jarvis-workspace,Self-introduction profile JSON,,opus,1,211202,1.0565,0.0,0.0

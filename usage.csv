@@ -334,3 +334,7 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-16T23,Obsidian-second-brain,sonnet,4,626,61170,83479,2,0.1675
 2026-11-17T11,.claude,haiku,36,6848,127699,1274488,16,0.0321
 2026-11-17T12,.claude,haiku,8,1084,1284,181860,2,0.0025
+2026-11-17T12,.jarvis-workspace,opus,6,389,256290,377500,3,1.3648
+2026-11-17T12,other,opus,4,8,96712,22682,2,0.4883
+2026-11-17T13,.jarvis-workspace,opus,4,102,46749,377500,2,0.3113
+2026-11-17T13,Obsidian-second-brain,sonnet,4,623,62414,84437,2,0.1707
