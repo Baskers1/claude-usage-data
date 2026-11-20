@@ -147,5 +147,5 @@ fc0865dc,2026-11-20T08:18,assistant,Resume from handoff,context-handoff:handoff-
 87285dd2,2026-11-20T08:42,assistant,Add web search to Quentin,claude-api /handoff-productivity:cs-handoff,opus,86,21395057,6.3288,0.0,0.0
 e9dc80cb,2026-11-20T09:41,assistant,Resume from handoff,/ponytail:ponytail,opus,19,2461220,1.2762,0.0,0.0
 8cd31110,2026-11-20T09:50,assistant,Resume from handoff,context-handoff:handoff-resume /ponytail:ponytail,opus,38,5807010,2.5283,0.0,0.0
-d1b9ab36,2026-11-20T14:16,assistant,Resume from handoff,superpowers:systematic-debugging,opus,49,7208247,2.8595,0.0,0.0
-90070278,2026-11-20T16:27,assistant,btw: all of those clips are me talking just in different inf,superpowers:systematic-debugging,opus,18,3287797,0.9167,0.0,0.0
+d1b9ab36,2026-11-20T14:16,assistant,Resume from handoff,superpowers:systematic-debugging context-handoff:handoff-save,opus,112,20834040,6.7273,0.0,0.0
+90070278,2026-11-20T16:27,assistant,btw: all of those clips are me talking just in different inf,superpowers:systematic-debugging,opus,21,3859957,1.0579,0.0,0.0
