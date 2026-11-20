@@ -72,7 +72,6 @@ c8333d13,2026-10-28T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,son
 0b762fa3,2026-10-29T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,20,1907166,0.6103,0.0,0.0
 43ca4bbe,2026-10-30T00:36,.claude,Voicebox MCP server setup,/mcp,fable,19,1589296,1.8848,1.6305,0.0
 dde64669,2026-10-30T08:11,Obsidian-second-brain,Orphan nodes cleanup,claude-obsidian:wiki-ingest,opus,91,15584694,6.003,0.0,0.0
-fd52f576,2026-10-30T08:46,Obsidian-second-brain,Vault rules summary,,sonnet,15,1427419,0.3471,0.0,0.0
 ba866627,2026-10-30T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,20,1760055,0.5533,0.0,0.0
 7a23d916,2026-10-30T15:38,dashboards-source,Dashboard status.json sync loop,/loop,opus,68,5787520,1.897,0.0,0.0
 3e60ed38,2026-10-30T22:34,dashboards-source,Baskers.net WCAG 2.2 AA audit,/effort /autocompact,opus,68,6839690,2.5395,0.0,0.0
@@ -111,7 +110,6 @@ ea8a2a55,2026-11-09T00:31,.claude,Anatomy skill for Claude Code,/plugin /reload-
 175eef56,2026-11-09T00:56,dashboards-source,,,sonnet,11,1637895,0.3656,0.0,0.0
 dd0c887e,2026-11-09T09:06,home,Linux VM for running repo tests,cua-sandboxes,opus,32,3149648,2.4358,0.0,0.0
 faa4c434,2026-11-09T09:09,Obsidian,Wiki ingest inbox count,handoff:save /mcp,sonnet,66,7819800,3.814,0.0,0.0
-fdce6b7b,2026-11-09T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,14,1027391,0.3573,0.0,0.0
 5c37a1e4,2026-11-09T17:02,home,Linux test VM on Mac,,opus,9,820628,1.1568,0.0,0.0
 d45c784f,2026-11-09T23:11,Obsidian,Hidden duplicate plugin server connectors,/plugin /reload-plugins,sonnet,64,4606289,1.6618,0.0,0.2703
 b38abc0d,2026-11-10T00:45,Obsidian,run-wiki-lint-health-check,/claude-obsidian:wiki-lint /obsidian:json-canvas,opus,22,1879648,1.4577,0.0,0.0
@@ -148,4 +146,6 @@ f60e84db,2026-11-14T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,son
 e3c49a80,2026-11-18T03:30,.jarvis-workspace,Jarvis routine proposal from session logs,,opus,1,211529,1.0578,0.0,0.0
 a9e0d4af,2026-11-18T07:05,.jarvis-workspace,Introduction to Baskers from Dundee,,opus,1,212807,1.065,0.0,0.0
 de554309,2026-11-19T03:30,.jarvis-workspace,Jarvis routine recurring request analysis,,opus,1,211049,1.0556,0.0,0.0
-eea93779,2026-11-19T23:14,tech-briefs,,context-handoff:handoff-resume anthropic-skills:adhd-clear-steps,opus,17,2579559,1.0933,0.0,0.0
+eea93779,2026-11-19T23:14,tech-briefs,,context-handoff:handoff-resume anthropic-skills:adhd-clear-steps,opus,72,13577131,4.1334,0.0,0.0
+0f2fbc2a,2026-11-20T00:04,tech-briefs,,context-handoff:handoff-save,opus,48,7943943,2.4244,0.0,0.0
+4812ede9,2026-11-20T00:30,tech-briefs,Voice assistant handoff continuation,,opus,7,872916,0.5879,0.0,0.0
