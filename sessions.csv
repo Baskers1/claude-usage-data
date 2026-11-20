@@ -57,7 +57,6 @@ acfa3839,2026-10-21T12:28,.claude,GitHub check,/ponytail:ponytail,haiku,67,67725
 d251d782,2026-10-21T23:14,.claude,Enabling cc-plugin-you-should-know builtin plugin,/plugin /reload-plugins,fable,19,2194238,2.6961,2.5628,0.0
 ae4f385c,2026-10-22T08:33,.claude,Graphify /graphify,/graphify,fable,130,24903144,28.4896,23.4455,6.0729
 23a58246,2026-10-23T08:34,dashboards-source-tokenledger,,,opus,1,79674,0.4983,0.0,0.0
-ee4184fd,2026-10-23T08:34,dashboards-source-tokenledger,,,opus,1,79674,0.376,0.0,0.0
 bc7cdb83,2026-10-27T22:45,.claude,Claude Code telemetry collector,/graphify,fable,50,6611223,6.177,3.2653,1.4729
 5eb99887,2026-10-28T14:43,Obsidian-second-brain,Claude-obsidian vault scaffold commit,claude-obsidian:wiki,haiku,50,4422182,1.0863,0.0,0.0
 c7e9f219,2026-10-28T15:23,Obsidian-second-brain,Wiki-ingest for second-brain-articles.md,/agents claude-obsidian:wiki-ingest,opus,47,10135272,8.051,0.0,0.0
@@ -148,4 +147,5 @@ eea93779,2026-11-19T23:14,tech-briefs,,context-handoff:handoff-resume anthropic-
 4812ede9,2026-11-20T00:30,tech-briefs,Voice assistant handoff continuation,,opus,7,872916,0.5879,0.0,0.0
 d72a13cb,2026-11-20T00:35,tech-briefs,Voice assistant handoff continuation,/anthropic-skills:be-more-ambitious context-handoff:handoff-save,opus,112,21715368,7.0274,0.0,0.8526
 f3d2bf99,2026-11-20T03:30,.jarvis-workspace,Jarvis routine recurring request analysis,,opus,1,211014,1.0552,0.0,0.0
-fc0865dc,2026-11-20T08:18,assistant,Resume from handoff,,opus,33,4660275,1.866,0.0,0.0
+fc0865dc,2026-11-20T08:18,assistant,Resume from handoff,context-handoff:handoff-save,opus,67,11067539,3.6699,0.0,0.0
+87285dd2,2026-11-20T08:42,assistant,Add web search to Quentin,claude-api,opus,77,18888115,5.7155,0.0,0.0
