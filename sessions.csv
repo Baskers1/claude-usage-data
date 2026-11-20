@@ -134,7 +134,6 @@ b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,o
 974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
 34e78e97,2026-11-12T15:14,Obsidian-second-brain,Ingest and lint model choice,,sonnet,2,177662,0.4455,0.0,0.0
 50b4382a,2026-11-12T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,15,1266929,0.4238,0.0,0.0
-8fbb9085,2026-11-13T11:05,Obsidian-second-brain,Scheduled jobs on the iMac,,opus,2,173232,0.3625,0.0,0.0
 53b1a6b1,2026-11-13T11:06,Obsidian-second-brain,DIRECT-T2 nightly ingest 10 November,,opus,3,260770,0.3751,0.0,0.0
 a5085e5f,2026-11-14T13:26,Obsidian-second-brain,Txt to md rename script,,sonnet,2,190556,0.4821,0.0,0.0
 8da7b76a,2026-11-14T16:29,Obsidian-second-brain,Notes vault sync architecture,,opus,2,190338,0.8256,0.0,0.0
@@ -149,3 +148,4 @@ de554309,2026-11-19T03:30,.jarvis-workspace,Jarvis routine recurring request ana
 eea93779,2026-11-19T23:14,tech-briefs,,context-handoff:handoff-resume anthropic-skills:adhd-clear-steps,opus,72,13577131,4.1334,0.0,0.0
 0f2fbc2a,2026-11-20T00:04,tech-briefs,,context-handoff:handoff-save,opus,48,7943943,2.4244,0.0,0.0
 4812ede9,2026-11-20T00:30,tech-briefs,Voice assistant handoff continuation,,opus,7,872916,0.5879,0.0,0.0
+d72a13cb,2026-11-20T00:35,tech-briefs,Voice assistant handoff continuation,/anthropic-skills:be-more-ambitious context-handoff:handoff-save,opus,112,21715368,7.0274,0.0,0.8526
