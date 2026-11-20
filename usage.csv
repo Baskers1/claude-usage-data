@@ -353,4 +353,4 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-20T01,tech-briefs,opus,70,26706,42669,7491008,31,2.2459
 2026-11-20T03,.jarvis-workspace,opus,2,8,211004,0,1,1.0552
 2026-11-20T08,assistant,opus,210,56414,340155,17801652,98,6.3902
-2026-11-20T09,assistant,opus,92,24481,33062,11699588,46,2.9952
+2026-11-20T09,assistant,opus,236,50058,296016,24917370,118,7.4657
