@@ -124,7 +124,6 @@ c4c4242d,2026-11-11T22:38,Obsidian-second-brain,Nightly ingest 10 November incid
 f21d4d78,2026-11-12T14:06,Obsidian-second-brain,Staging wiki Maps.base,,opus,12,1108429,1.3917,0.0,0.0
 b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,opus,28,1931299,0.8462,0.0,0.0
 974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
-a5085e5f,2026-11-14T13:26,Obsidian-second-brain,Txt to md rename script,,sonnet,2,190556,0.4821,0.0,0.0
 8da7b76a,2026-11-14T16:29,Obsidian-second-brain,Notes vault sync architecture,,opus,2,190338,0.8256,0.0,0.0
 6a47bc96,2026-11-17T12:50,.jarvis-workspace,Self-introduction profile JSON,,opus,1,211202,1.0565,0.0,0.0
 923d4e1b,2026-11-17T18:05,.jarvis-workspace,Getting to know Baskers,,opus,1,212773,1.0656,0.0,0.0
@@ -147,5 +146,6 @@ c645003f,2026-11-20T23:34,assistant,Resume from handoff,/ponytail:ponytail conte
 17c1a974,2026-11-21T00:01,assistant,Resume from handoff,,opus,10,1199759,0.638,0.0,0.0
 90ffb20b,2026-11-21T00:10,assistant,Resume from handoff,/ponytail:ponytail superpowers:brainstorming,opus,153,33330721,10.2884,0.0,0.3228
 37884fab,2026-11-21T01:13,assistant,Make Quentin reply faster,superpowers:brainstorming /handoff-productivity:cs-handoff,opus,29,4566649,1.8223,0.0,0.0
-db40cf2f,2026-11-21T20:19,assistant,Resume from handoff,,opus,24,3234209,1.2824,0.0,0.0
-a014d10a,2026-11-21T20:19,assistant,Make Quentin reply faster,,opus,20,2643064,1.133,0.0,0.0
+db40cf2f,2026-11-21T20:19,assistant,Resume from handoff,,opus,34,4682948,2.11,0.0,0.0
+a014d10a,2026-11-21T20:19,assistant,Make Quentin reply faster,context-handoff:handoff-save,opus,31,4223988,2.0039,0.0,0.0
+4b5f49a3,2026-11-21T21:52,assistant,Resume from handoff,,opus,20,2459893,0.9905,0.0,0.0
