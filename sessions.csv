@@ -122,12 +122,10 @@ aff552de,2026-11-11T11:56,dashboards-efficiency-scrapekit,Graphify codebase grap
 475e331a,2026-11-11T13:21,Obsidian-second-brain,Graphify update and nightly-ingest check,graphify,opus,47,6162300,7.4422,0.0,2.935
 fb9f0315,2026-11-11T22:34,Obsidian-second-brain,Scheduled jobs on the iMac,,opus,11,1021212,1.2912,0.0,0.0
 c4c4242d,2026-11-11T22:38,Obsidian-second-brain,Nightly ingest 10 November incident,,opus,8,842213,1.0493,0.0,0.0
-f4949a29,2026-11-11T22:41,Obsidian-second-brain,Model choice for ingest and lint,,sonnet,2,177712,0.4455,0.0,0.0
 86bac0bd,2026-11-12T09:47,.claude,Agent-Reach install guide,use-tinyfish /last30days:last30days,haiku,26,2241236,0.7463,0.0,0.0
 f21d4d78,2026-11-12T14:06,Obsidian-second-brain,Staging wiki Maps.base,,opus,12,1108429,1.3917,0.0,0.0
 b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,opus,28,1931299,0.8462,0.0,0.0
 974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
-34e78e97,2026-11-12T15:14,Obsidian-second-brain,Ingest and lint model choice,,sonnet,2,177662,0.4455,0.0,0.0
 a5085e5f,2026-11-14T13:26,Obsidian-second-brain,Txt to md rename script,,sonnet,2,190556,0.4821,0.0,0.0
 8da7b76a,2026-11-14T16:29,Obsidian-second-brain,Notes vault sync architecture,,opus,2,190338,0.8256,0.0,0.0
 e78e3ce3,2026-11-14T17:31,other,,,fable,1,57878,0.4675,0.4675,0.0
@@ -148,4 +146,6 @@ e9dc80cb,2026-11-20T09:41,assistant,Resume from handoff,/ponytail:ponytail,opus,
 d1b9ab36,2026-11-20T14:16,assistant,Resume from handoff,superpowers:systematic-debugging context-handoff:handoff-save,opus,112,20834040,6.7273,0.0,0.0
 90070278,2026-11-20T16:27,assistant,btw: all of those clips are me talking just in different inf,superpowers:systematic-debugging,opus,21,3859957,1.0579,0.0,0.0
 c4b7b584,2026-11-20T17:35,assistant,Resume from handoff,context-handoff:handoff-resume /ponytail:ponytail,opus,51,9405793,3.3297,0.0,0.0
-c645003f,2026-11-20T23:34,assistant,Resume from handoff,,opus,3,363542,0.4462,0.0,0.0
+c645003f,2026-11-20T23:34,assistant,Resume from handoff,/ponytail:ponytail context-handoff:handoff-save,opus,41,5620926,1.9479,0.0,0.0
+17c1a974,2026-11-21T00:01,assistant,Resume from handoff,,opus,10,1199759,0.638,0.0,0.0
+90ffb20b,2026-11-21T00:10,assistant,Resume from handoff,/ponytail:ponytail superpowers:brainstorming,opus,33,5151190,2.2046,0.0,0.0
