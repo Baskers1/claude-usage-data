@@ -78,7 +78,6 @@ f56c4352,2026-10-30T23:08,Projects-baskers-website,A11y-key-icons branch aria-hi
 d14e8479,2026-10-30T23:31,Projects-baskers-website,Baskers.net FTP deploy workflow,,sonnet,21,1467453,0.6059,0.0,0.0
 4dd48ad7,2026-10-31T11:22,.claude,session,/poster-design-studio:poster-design-stud,opus,28,2068712,1.3413,0.0,0.0
 0d6c8b9e,2026-11-02T23:17,Obsidian,task,claude-obsidian:wiki-lint /claude-obsidian:wiki-ingest,opus,91,9308817,6.8191,1.4269,0.0
-760c4bf2,2026-11-03T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,25,1834584,0.4782,0.0,0.0
 af20eb96,2026-11-06T08:38,.claude,Prompts.chat self-hosting setup,/login,fable,12,822922,1.4272,1.2207,0.0
 d5408350,2026-11-06T09:22,dashboards-source,Repo efficiency review,ponytail:ponytail-audit,fable,142,14703959,15.6346,15.6346,10.6263
 4b90851a,2026-11-06T09:42,dashboards-efficiency,Run_ratings.sh and amm_watch.py rollback,/goal,opus,22,2399071,2.5339,0.0,0.0
@@ -127,7 +126,6 @@ b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,o
 974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
 a5085e5f,2026-11-14T13:26,Obsidian-second-brain,Txt to md rename script,,sonnet,2,190556,0.4821,0.0,0.0
 8da7b76a,2026-11-14T16:29,Obsidian-second-brain,Notes vault sync architecture,,opus,2,190338,0.8256,0.0,0.0
-e78e3ce3,2026-11-14T17:31,other,,,fable,1,57878,0.4675,0.4675,0.0
 6a47bc96,2026-11-17T12:50,.jarvis-workspace,Self-introduction profile JSON,,opus,1,211202,1.0565,0.0,0.0
 923d4e1b,2026-11-17T18:05,.jarvis-workspace,Getting to know Baskers,,opus,1,212773,1.0656,0.0,0.0
 e3c49a80,2026-11-18T03:30,.jarvis-workspace,Jarvis routine proposal from session logs,,opus,1,211529,1.0578,0.0,0.0
@@ -149,3 +147,5 @@ c645003f,2026-11-20T23:34,assistant,Resume from handoff,/ponytail:ponytail conte
 17c1a974,2026-11-21T00:01,assistant,Resume from handoff,,opus,10,1199759,0.638,0.0,0.0
 90ffb20b,2026-11-21T00:10,assistant,Resume from handoff,/ponytail:ponytail superpowers:brainstorming,opus,153,33330721,10.2884,0.0,0.3228
 37884fab,2026-11-21T01:13,assistant,Make Quentin reply faster,superpowers:brainstorming /handoff-productivity:cs-handoff,opus,29,4566649,1.8223,0.0,0.0
+db40cf2f,2026-11-21T20:19,assistant,Resume from handoff,,opus,24,3234209,1.2824,0.0,0.0
+a014d10a,2026-11-21T20:19,assistant,Make Quentin reply faster,,opus,20,2643064,1.133,0.0,0.0
