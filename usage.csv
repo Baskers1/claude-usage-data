@@ -373,3 +373,6 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-22T00,assistant,opus,158,48059,116697,26278412,77,6.801
 2026-11-22T03,.jarvis-workspace,opus,4,54,237139,186823,2,1.2242
 2026-11-22T06,assistant,opus,2,87,108554,43750,1,0.5533
+2026-11-22T08,.jarvis-workspace,opus,46,7485,530609,4565870,23,3.7161
+2026-11-22T08,other,opus,2,4,43827,11726,1,0.2216
+2026-11-22T09,assistant,opus,30,5919,195242,1864591,15,1.4676

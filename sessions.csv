@@ -55,7 +55,6 @@ facaef41,2026-10-21T12:04,.claude,Review plugins,/claude-mem:babysit /claudinato
 acfa3839,2026-10-21T12:28,.claude,GitHub check,/ponytail:ponytail,haiku,67,6772547,2.5071,0.0,0.0
 d251d782,2026-10-21T23:14,.claude,Enabling cc-plugin-you-should-know builtin plugin,/plugin /reload-plugins,fable,19,2194238,2.6961,2.5628,0.0
 ae4f385c,2026-10-22T08:33,.claude,Graphify /graphify,/graphify,fable,130,24903144,28.4896,23.4455,6.0729
-23a58246,2026-10-23T08:34,dashboards-source-tokenledger,,,opus,1,79674,0.4983,0.0,0.0
 bc7cdb83,2026-10-27T22:45,.claude,Claude Code telemetry collector,/graphify,fable,50,6611223,6.177,3.2653,1.4729
 5eb99887,2026-10-28T14:43,Obsidian-second-brain,Claude-obsidian vault scaffold commit,claude-obsidian:wiki,haiku,50,4422182,1.0863,0.0,0.0
 c7e9f219,2026-10-28T15:23,Obsidian-second-brain,Wiki-ingest for second-brain-articles.md,/agents claude-obsidian:wiki-ingest,opus,47,10135272,8.051,0.0,0.0
@@ -73,7 +72,6 @@ ba866627,2026-10-30T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,son
 7a23d916,2026-10-30T15:38,dashboards-source,Dashboard status.json sync loop,/loop,opus,68,5787520,1.897,0.0,0.0
 3e60ed38,2026-10-30T22:34,dashboards-source,Baskers.net WCAG 2.2 AA audit,/effort /autocompact,opus,68,6839690,2.5395,0.0,0.0
 f56c4352,2026-10-30T23:08,Projects-baskers-website,A11y-key-icons branch aria-hidden,/effort,sonnet,23,1671925,0.6703,0.0,0.0
-6f8e0233,2026-10-30T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,24,1835847,0.5013,0.0,0.0
 d14e8479,2026-10-30T23:31,Projects-baskers-website,Baskers.net FTP deploy workflow,,sonnet,21,1467453,0.6059,0.0,0.0
 4dd48ad7,2026-10-31T11:22,.claude,session,/poster-design-studio:poster-design-stud,opus,28,2068712,1.3413,0.0,0.0
 0d6c8b9e,2026-11-02T23:17,Obsidian,task,claude-obsidian:wiki-lint /claude-obsidian:wiki-ingest,opus,91,9308817,6.8191,1.4269,0.0
@@ -85,7 +83,6 @@ d5408350,2026-11-06T09:22,dashboards-source,Repo efficiency review,ponytail:pony
 861e0737,2026-11-06T11:42,dashboards,Npt-social fetch cache reuse audit,,opus,17,1824994,2.5984,0.0,0.0
 bdfc5336,2026-11-06T12:20,dashboards-npt22,Fetch_npt_social API cache scheduling,,opus,47,6349379,5.5714,0.0,0.0
 c06b0aee,2026-11-07T10:32,.claude,Graphify codebase queries,/graphify,haiku,100,13475098,5.0194,0.0,1.3268
-040d4ba0,2026-11-07T11:28,.claude,Motion-prompt installation,motion-prompt,haiku,13,938982,0.5116,0.0,0.0
 661a9b1a,2026-11-07T11:49,.claude,Motion-prompt library,motion-prompt,opus,128,27520444,27.0179,0.0,15.8756
 cafbb538,2026-11-07T12:42,.claude,ai-second-brain skill clone,/plugin /reload-plugins,opus,36,3283200,2.4972,0.0,0.0
 a52c6489,2026-11-08T02:13,.claude,Remove playwright MCP server scope,/plugin /reload-plugins,opus,18,1904969,1.9187,0.0,0.0
@@ -147,5 +144,8 @@ c645003f,2026-11-20T23:34,assistant,Resume from handoff,/ponytail:ponytail conte
 db40cf2f,2026-11-21T20:19,assistant,Resume from handoff,,opus,34,4682948,2.11,0.0,0.0
 a014d10a,2026-11-21T20:19,assistant,Make Quentin reply faster,context-handoff:handoff-save,opus,31,4223988,2.0039,0.0,0.0
 4b5f49a3,2026-11-21T21:52,assistant,Resume from handoff,,opus,23,2849025,1.5027,0.0,0.0
-89e65832,2026-11-21T23:08,assistant,Resume from handoff,superpowers:brainstorming superpowers:writing-plans,opus,216,59389866,17.1789,0.0,0.4486
+89e65832,2026-11-21T23:08,assistant,Resume from handoff,superpowers:brainstorming superpowers:writing-plans,opus,222,60345983,18.0082,0.0,0.4486
 ec33d94a,2026-11-22T03:00,.jarvis-workspace,Jarvis voice chat onboarding,,opus,1,212737,1.0644,0.0,0.0
+af427546,2026-11-22T08:28,.jarvis-workspace,Recent email correspondents and projects,,opus,4,886248,1.2987,0.0,0.0
+c18f0aa0,2026-11-22T08:58,.jarvis-workspace,Overnight email and calendar summary,,opus,3,644700,1.1889,0.0,0.0
+9fd5372b,2026-11-22T09:14,assistant,Resume from handoff,/context-handoff:handoff-resume,opus,9,1109665,0.6383,0.0,0.0
