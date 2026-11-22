@@ -70,7 +70,6 @@ dde64669,2026-10-30T08:11,Obsidian-second-brain,Orphan nodes cleanup,claude-obsi
 7a23d916,2026-10-30T15:38,dashboards-source,Dashboard status.json sync loop,/loop,opus,68,5787520,1.897,0.0,0.0
 3e60ed38,2026-10-30T22:34,dashboards-source,Baskers.net WCAG 2.2 AA audit,/effort /autocompact,opus,68,6839690,2.5395,0.0,0.0
 f56c4352,2026-10-30T23:08,Projects-baskers-website,A11y-key-icons branch aria-hidden,/effort,sonnet,23,1671925,0.6703,0.0,0.0
-d14e8479,2026-10-30T23:31,Projects-baskers-website,Baskers.net FTP deploy workflow,,sonnet,21,1467453,0.6059,0.0,0.0
 4dd48ad7,2026-10-31T11:22,.claude,session,/poster-design-studio:poster-design-stud,opus,28,2068712,1.3413,0.0,0.0
 0d6c8b9e,2026-11-02T23:17,Obsidian,task,claude-obsidian:wiki-lint /claude-obsidian:wiki-ingest,opus,91,9308817,6.8191,1.4269,0.0
 af20eb96,2026-11-06T08:38,.claude,Prompts.chat self-hosting setup,/login,fable,12,822922,1.4272,1.2207,0.0
@@ -149,3 +148,4 @@ c18f0aa0,2026-11-22T08:58,.jarvis-workspace,Overnight email and calendar summary
 1a47bd7a,2026-11-22T15:03,assistant,Resume from handoff,context-handoff:handoff-resume context-handoff:handoff-save,opus,46,6833690,2.5694,0.0,0.0
 40e895c5,2026-11-22T15:41,Downloads,Image teardown,/teardown watch:watch,opus,200,45589548,17.0426,0.0,0.0
 730ef99f,2026-11-22T18:05,.jarvis-workspace,Voice chat with Baskers,,opus,1,212962,1.065,0.0,0.0
+1e976cef,2026-11-22T21:23,Downloads,Image teardown,/handoff-productivity:cs-handoff context-handoff:handoff-save,opus,99,22061327,7.7323,0.0,0.0
