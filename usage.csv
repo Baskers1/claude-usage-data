@@ -371,3 +371,4 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-21T23,Obsidian-second-brain,sonnet,4,305,51394,77972,2,0.1393
 2026-11-21T23,assistant,opus,296,96965,370649,32715369,141,10.3368
 2026-11-22T00,assistant,opus,158,48059,116697,26278412,77,6.801
+2026-11-22T03,.jarvis-workspace,opus,2,46,212689,0,1,1.0644
