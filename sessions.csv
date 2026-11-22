@@ -68,7 +68,6 @@ c8333d13,2026-10-28T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,son
 0b762fa3,2026-10-29T23:30,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,20,1907166,0.6103,0.0,0.0
 43ca4bbe,2026-10-30T00:36,.claude,Voicebox MCP server setup,/mcp,fable,19,1589296,1.8848,1.6305,0.0
 dde64669,2026-10-30T08:11,Obsidian-second-brain,Orphan nodes cleanup,claude-obsidian:wiki-ingest,opus,91,15584694,6.003,0.0,0.0
-ba866627,2026-10-30T13:00,Obsidian-second-brain,,claude-obsidian:wiki-ingest,sonnet,20,1760055,0.5533,0.0,0.0
 7a23d916,2026-10-30T15:38,dashboards-source,Dashboard status.json sync loop,/loop,opus,68,5787520,1.897,0.0,0.0
 3e60ed38,2026-10-30T22:34,dashboards-source,Baskers.net WCAG 2.2 AA audit,/effort /autocompact,opus,68,6839690,2.5395,0.0,0.0
 f56c4352,2026-10-30T23:08,Projects-baskers-website,A11y-key-icons branch aria-hidden,/effort,sonnet,23,1671925,0.6703,0.0,0.0
@@ -91,7 +90,6 @@ a52c6489,2026-11-08T02:13,.claude,Remove playwright MCP server scope,/plugin /re
 f53d006c,2026-11-08T21:22,Obsidian,Wiki-ingest for Obsidian vault,/claude-obsidian:wiki-ingest /claude-obsidian:wiki-lint,opus,65,5833478,3.1229,0.0,0.0
 6513dadd,2026-11-08T21:44,Obsidian,Obsidian CLI vault management,/reload-plugins /obsidian-cli,opus,25,1835125,1.3305,0.0,0.0
 3efa802f,2026-11-08T22:37,.claude,Hyperframes skills installation,/plugin /reload-plugins,opus,5,348721,0.688,0.0,0.0
-aefc623e,2026-11-08T22:39,.claude,Onetake skill clone,/reload-plugins,haiku,22,1361108,0.525,0.0,0.0
 f94bbbf6,2026-11-08T22:50,.claude,X-Wing teardown simulator,/reload-skills /reload-plugins,opus,18,2127027,3.7223,0.0,0.0
 188bc7d9,2026-11-08T23:29,dashboards-source,,/anthropic-skills:finish-the-job,sonnet,24,3875592,0.975,0.0,0.0
 c51c1128,2026-11-08T23:36,dashboards-source,handoff-xiahei,/ian-xiaohei-illustrations /anthropic-skills:session-wrap-up,sonnet,30,4581219,1.1591,0.0,0.0
@@ -148,4 +146,6 @@ a014d10a,2026-11-21T20:19,assistant,Make Quentin reply faster,context-handoff:ha
 ec33d94a,2026-11-22T03:00,.jarvis-workspace,Jarvis voice chat onboarding,,opus,1,212737,1.0644,0.0,0.0
 af427546,2026-11-22T08:28,.jarvis-workspace,Recent email correspondents and projects,,opus,4,886248,1.2987,0.0,0.0
 c18f0aa0,2026-11-22T08:58,.jarvis-workspace,Overnight email and calendar summary,,opus,3,644700,1.1889,0.0,0.0
-9fd5372b,2026-11-22T09:14,assistant,Resume from handoff,/context-handoff:handoff-resume,opus,82,13627239,4.0212,0.0,0.0
+9fd5372b,2026-11-22T09:14,assistant,Resume from handoff,/context-handoff:handoff-resume context-handoff:handoff-save,opus,107,16958895,5.3523,0.0,0.0
+218baada,2026-11-22T12:28,assistant,Resume from handoff,/context-handoff:handoff-resume,opus,45,6798102,2.3911,0.0,0.0
+62c330c7,2026-11-22T13:05,.jarvis-workspace,Getting to know Baskers,,opus,1,212962,1.065,0.0,0.0
