@@ -148,4 +148,4 @@ a014d10a,2026-11-21T20:19,assistant,Make Quentin reply faster,context-handoff:ha
 ec33d94a,2026-11-22T03:00,.jarvis-workspace,Jarvis voice chat onboarding,,opus,1,212737,1.0644,0.0,0.0
 af427546,2026-11-22T08:28,.jarvis-workspace,Recent email correspondents and projects,,opus,4,886248,1.2987,0.0,0.0
 c18f0aa0,2026-11-22T08:58,.jarvis-workspace,Overnight email and calendar summary,,opus,3,644700,1.1889,0.0,0.0
-9fd5372b,2026-11-22T09:14,assistant,Resume from handoff,/context-handoff:handoff-resume,opus,9,1109665,0.6383,0.0,0.0
+9fd5372b,2026-11-22T09:14,assistant,Resume from handoff,/context-handoff:handoff-resume,opus,82,13627239,4.0212,0.0,0.0
