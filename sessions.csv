@@ -61,7 +61,6 @@ c7e9f219,2026-10-28T15:23,Obsidian-second-brain,Wiki-ingest for second-brain-art
 f0a5628f,2026-10-28T15:53,Obsidian-second-brain,Index-first reading and MCP critiques,/effort,fable,10,566195,1.8592,1.8592,0.424
 1f6e8b89,2026-10-28T16:03,Obsidian-second-brain,Index-first reading and MCP disagreements,,fable,9,547010,1.8084,1.8084,0.3593
 6476a796,2026-10-28T16:06,Obsidian-second-brain,Index-first reading and MCP disagreements,,fable,8,530529,1.4349,1.4349,0.4534
-cde1e510,2026-10-28T16:24,Obsidian-second-brain,Ledger left empty note,/effort /claude-obsidian:wiki-ingest,sonnet,24,2893181,0.6826,0.0,0.0
 3a86c9db,2026-10-29T14:48,home,Claude telemetry,session-metrics:session-metrics /plugin,haiku,60,6511714,3.1861,0.0,0.0
 43ca4bbe,2026-10-30T00:36,.claude,Voicebox MCP server setup,/mcp,fable,19,1589296,1.8848,1.6305,0.0
 dde64669,2026-10-30T08:11,Obsidian-second-brain,Orphan nodes cleanup,claude-obsidian:wiki-ingest,opus,91,15584694,6.003,0.0,0.0
@@ -143,6 +142,7 @@ c18f0aa0,2026-11-22T08:58,.jarvis-workspace,Overnight email and calendar summary
 62c330c7,2026-11-22T13:05,.jarvis-workspace,Getting to know Baskers,,opus,1,212962,1.065,0.0,0.0
 1a47bd7a,2026-11-22T15:03,assistant,Resume from handoff,context-handoff:handoff-resume context-handoff:handoff-save,opus,46,6833690,2.5694,0.0,0.0
 40e895c5,2026-11-22T15:41,Downloads,Image teardown,/teardown watch:watch,opus,200,45589548,17.0426,0.0,0.0
+01c14315,2026-11-22T16:02,assistant,Resume from handoff,,opus,38,5192154,2.2055,0.0,0.0
 730ef99f,2026-11-22T18:05,.jarvis-workspace,Voice chat with Baskers,,opus,1,212962,1.065,0.0,0.0
 1e976cef,2026-11-22T21:23,Downloads,Image teardown,/handoff-productivity:cs-handoff context-handoff:handoff-save,opus,99,22061327,7.7323,0.0,0.0
 47ee9881,2026-11-23T03:30,.jarvis-workspace,Jarvis session transcript review,,opus,1,212211,1.0612,0.0,0.0
