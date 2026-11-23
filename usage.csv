@@ -395,3 +395,5 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-23T12,Downloads,opus,6,890,77242,284449,3,0.4609
 2026-11-23T13,Downloads,opus,76,23503,60057,5782221,38,1.9271
 2026-11-23T13,Obsidian-second-brain,sonnet,6,689,54884,77927,2,0.1519
+2026-11-23T14,.jarvis-workspace,opus,6,1490,225130,434033,3,1.2423
+2026-11-23T14,Downloads,opus,56,16935,173556,5533651,28,2.3134
