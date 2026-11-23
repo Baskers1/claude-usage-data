@@ -131,7 +131,6 @@ d1b9ab36,2026-11-20T14:16,assistant,Resume from handoff,superpowers:systematic-d
 90070278,2026-11-20T16:27,assistant,btw: all of those clips are me talking just in different inf,superpowers:systematic-debugging,opus,21,3859957,1.0579,0.0,0.0
 c4b7b584,2026-11-20T17:35,assistant,Resume from handoff,context-handoff:handoff-resume /ponytail:ponytail,opus,51,9405793,3.3297,0.0,0.0
 c645003f,2026-11-20T23:34,assistant,Resume from handoff,/ponytail:ponytail context-handoff:handoff-save,opus,41,5620926,1.9479,0.0,0.0
-17c1a974,2026-11-21T00:01,assistant,Resume from handoff,,opus,10,1199759,0.638,0.0,0.0
 90ffb20b,2026-11-21T00:10,assistant,Resume from handoff,/ponytail:ponytail superpowers:brainstorming,opus,153,33330721,10.2884,0.0,0.3228
 37884fab,2026-11-21T01:13,assistant,Make Quentin reply faster,superpowers:brainstorming /handoff-productivity:cs-handoff,opus,29,4566649,1.8223,0.0,0.0
 db40cf2f,2026-11-21T20:19,assistant,Resume from handoff,,opus,34,4682948,2.11,0.0,0.0
@@ -149,3 +148,4 @@ c18f0aa0,2026-11-22T08:58,.jarvis-workspace,Overnight email and calendar summary
 730ef99f,2026-11-22T18:05,.jarvis-workspace,Voice chat with Baskers,,opus,1,212962,1.065,0.0,0.0
 1e976cef,2026-11-22T21:23,Downloads,Image teardown,/handoff-productivity:cs-handoff context-handoff:handoff-save,opus,99,22061327,7.7323,0.0,0.0
 47ee9881,2026-11-23T03:30,.jarvis-workspace,Jarvis session transcript review,,opus,1,212211,1.0612,0.0,0.0
+c3bbbdfb,2026-11-23T07:05,.jarvis-workspace,Introductory voice chat with Baskers,,opus,1,212999,1.0654,0.0,0.0
