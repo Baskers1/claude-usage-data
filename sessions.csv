@@ -105,7 +105,6 @@ aff552de,2026-11-11T11:56,dashboards-efficiency-scrapekit,Graphify codebase grap
 475e331a,2026-11-11T13:21,Obsidian-second-brain,Graphify update and nightly-ingest check,graphify,opus,47,6162300,7.4422,0.0,2.935
 fb9f0315,2026-11-11T22:34,Obsidian-second-brain,Scheduled jobs on the iMac,,opus,11,1021212,1.2912,0.0,0.0
 c4c4242d,2026-11-11T22:38,Obsidian-second-brain,Nightly ingest 10 November incident,,opus,8,842213,1.0493,0.0,0.0
-86bac0bd,2026-11-12T09:47,.claude,Agent-Reach install guide,use-tinyfish /last30days:last30days,haiku,26,2241236,0.7463,0.0,0.0
 f21d4d78,2026-11-12T14:06,Obsidian-second-brain,Staging wiki Maps.base,,opus,12,1108429,1.3917,0.0,0.0
 b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,opus,28,1931299,0.8462,0.0,0.0
 974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
@@ -148,4 +147,5 @@ c18f0aa0,2026-11-22T08:58,.jarvis-workspace,Overnight email and calendar summary
 c3bbbdfb,2026-11-23T07:05,.jarvis-workspace,Introductory voice chat with Baskers,,opus,1,212999,1.0654,0.0,0.0
 d6c075d1,2026-11-23T12:59,Downloads,Image teardown,,opus,69,11952642,4.7015,0.0,0.0
 ce37fee4,2026-11-23T14:36,.jarvis-workspace,Last 14 days email contacts,,opus,3,660659,1.2423,0.0,0.0
-9954ce5c,2026-11-23T16:49,assistant,E87 Ebadge Quentin integration,,opus,58,9378639,3.1418,0.0,0.0
+9954ce5c,2026-11-23T16:49,assistant,E87 Ebadge Quentin integration,context-handoff:handoff-save /handoff-productivity:cs-handoff,opus,100,19602602,5.9799,0.0,0.0
+d8a1c475,2026-11-23T17:34,assistant,Explore BagiBagi Z01 badge for Quentin,,opus,14,1810478,0.8738,0.0,0.0
