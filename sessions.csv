@@ -87,7 +87,6 @@ f94bbbf6,2026-11-08T22:50,.claude,X-Wing teardown simulator,/reload-skills /relo
 188bc7d9,2026-11-08T23:29,dashboards-source,,/anthropic-skills:finish-the-job,sonnet,24,3875592,0.975,0.0,0.0
 c51c1128,2026-11-08T23:36,dashboards-source,handoff-xiahei,/ian-xiaohei-illustrations /anthropic-skills:session-wrap-up,sonnet,30,4581219,1.1591,0.0,0.0
 ab9e51d9,2026-11-08T23:39,.claude,Ian-xiaohei-illustrations repository,,opus,10,752081,1.1096,0.0,0.0
-ea8a2a55,2026-11-09T00:31,.claude,Anatomy skill for Claude Code,/plugin /reload-plugins,opus,13,837571,0.771,0.0,0.0
 dd0c887e,2026-11-09T09:06,home,Linux VM for running repo tests,cua-sandboxes,opus,32,3149648,2.4358,0.0,0.0
 faa4c434,2026-11-09T09:09,Obsidian,Wiki ingest inbox count,handoff:save /mcp,sonnet,66,7819800,3.814,0.0,0.0
 5c37a1e4,2026-11-09T17:02,home,Linux test VM on Mac,,opus,9,820628,1.1568,0.0,0.0
@@ -149,3 +148,4 @@ d6c075d1,2026-11-23T12:59,Downloads,Image teardown,,opus,69,11952642,4.7015,0.0,
 ce37fee4,2026-11-23T14:36,.jarvis-workspace,Last 14 days email contacts,,opus,3,660659,1.2423,0.0,0.0
 9954ce5c,2026-11-23T16:49,assistant,E87 Ebadge Quentin integration,context-handoff:handoff-save /handoff-productivity:cs-handoff,opus,100,19602602,5.9799,0.0,0.0
 d8a1c475,2026-11-23T17:34,assistant,Explore BagiBagi Z01 badge for Quentin,,opus,14,1810478,0.8738,0.0,0.0
+ced99bed,2026-11-24T03:30,.jarvis-workspace,Jarvis routine proposal from session logs,,opus,1,211542,1.0578,0.0,0.0
