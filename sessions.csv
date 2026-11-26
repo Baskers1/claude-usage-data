@@ -38,7 +38,6 @@ e59d907a,2026-10-10T21:55,.claude,Archcore:init deletion,,opus,11,3216789,1.9395
 2c3f4d66,2026-10-10T22:34,Desktop-jev-router,,,opus,2,543637,1.2722,0.0,0.0
 e53961c1,2026-10-11T10:29,.claude,Repo creation completed,,opus,35,11206392,4.3673,0.0,0.0
 3df9a770,2026-10-11T10:56,.claude,Unused MCP servers disabling,,opus,19,5460516,2.7336,0.0,0.0
-5468c299,2026-10-11T11:06,.claude,,,opus,3,548363,0.8761,0.0,0.0
 d75668e2,2026-10-11T11:13,.claude,Emilkowalski skills installation,/reload-skills /reload-plugins,sonnet,5,819057,0.8947,0.0,0.0
 8aadc0d5,2026-10-11T11:25,.claude,Diff plugin directory,/plugin plugin-authoring,opus,109,20549192,11.6776,0.0,0.0
 d69fe483,2026-10-12T08:24,.claude,TinyFish Claude Code connection,/plugin /reload-plugins,haiku,62,10482704,2.677,0.0,0.0
@@ -104,7 +103,6 @@ aff552de,2026-11-11T11:56,dashboards-efficiency-scrapekit,Graphify codebase grap
 fb9f0315,2026-11-11T22:34,Obsidian-second-brain,Scheduled jobs on the iMac,,opus,11,1021212,1.2912,0.0,0.0
 c4c4242d,2026-11-11T22:38,Obsidian-second-brain,Nightly ingest 10 November incident,,opus,8,842213,1.0493,0.0,0.0
 f21d4d78,2026-11-12T14:06,Obsidian-second-brain,Staging wiki Maps.base,,opus,12,1108429,1.3917,0.0,0.0
-b0092b8f,2026-11-12T14:36,Obsidian-second-brain,Obsidian Graphify AST rebuild,,opus,28,1931299,0.8462,0.0,0.0
 974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
 6a47bc96,2026-11-17T12:50,.jarvis-workspace,Self-introduction profile JSON,,opus,1,211202,1.0565,0.0,0.0
 923d4e1b,2026-11-17T18:05,.jarvis-workspace,Getting to know Baskers,,opus,1,212773,1.0656,0.0,0.0
@@ -145,7 +143,9 @@ c3bbbdfb,2026-11-23T07:05,.jarvis-workspace,Introductory voice chat with Baskers
 d6c075d1,2026-11-23T12:59,Downloads,Image teardown,,opus,69,11952642,4.7015,0.0,0.0
 ce37fee4,2026-11-23T14:36,.jarvis-workspace,Last 14 days email contacts,,opus,3,660659,1.2423,0.0,0.0
 9954ce5c,2026-11-23T16:49,assistant,E87 Ebadge Quentin integration,context-handoff:handoff-save /handoff-productivity:cs-handoff,opus,100,19602602,5.9799,0.0,0.0
-d8a1c475,2026-11-23T17:34,assistant,Explore BagiBagi Z01 badge for Quentin,,opus,14,1810478,0.8738,0.0,0.0
 ced99bed,2026-11-24T03:30,.jarvis-workspace,Jarvis routine proposal from session logs,,opus,1,211542,1.0578,0.0,0.0
 8b4af204,2026-11-24T07:30,.jarvis-workspace,Email correspondents and follow-ups review,,opus,3,661019,1.236,0.0,0.0
-48a27d94,2026-11-26T11:22,assistant,Resume from handoff,,opus,53,6863864,2.0907,0.0,0.0
+48a27d94,2026-11-26T11:22,assistant,Resume from handoff,,opus,66,8462349,2.896,0.0,0.0
+64b21aeb,2026-11-26T16:26,assistant,Resume from handoff,context-handoff:handoff-save,opus,30,4029108,1.5069,0.0,0.0
+dfec1eaa,2026-11-26T16:32,assistant,to resume Two items are still open: Quentin stopping when hi,/context-handoff:handoff-resume,opus,22,2770871,1.0679,0.0,0.0
+a7d1dca5,2026-11-26T16:36,assistant,Resume from handoff,,opus,45,5830386,1.9784,0.0,0.0
