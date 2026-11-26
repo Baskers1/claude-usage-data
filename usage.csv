@@ -420,3 +420,6 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-26T13,assistant,opus,2,125,41,143423,1,0.0314
 2026-11-26T16,assistant,opus,320,54219,477916,20119766,154,7.4992
 2026-11-26T17,assistant,opus,108,21367,51326,7955193,51,2.2754
+2026-11-26T23,Obsidian-second-brain,opus,12,2177,272090,1352046,6,1.6744
+2026-11-26T23,Obsidian-second-brain,sonnet,10,2619,60846,221667,4,0.2005
+2026-11-26T23,assistant,opus,40,9892,97094,2521939,20,1.1879

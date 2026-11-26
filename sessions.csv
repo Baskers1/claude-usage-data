@@ -38,7 +38,6 @@ e59d907a,2026-10-10T21:55,.claude,Archcore:init deletion,,opus,11,3216789,1.9395
 2c3f4d66,2026-10-10T22:34,Desktop-jev-router,,,opus,2,543637,1.2722,0.0,0.0
 e53961c1,2026-10-11T10:29,.claude,Repo creation completed,,opus,35,11206392,4.3673,0.0,0.0
 3df9a770,2026-10-11T10:56,.claude,Unused MCP servers disabling,,opus,19,5460516,2.7336,0.0,0.0
-d75668e2,2026-10-11T11:13,.claude,Emilkowalski skills installation,/reload-skills /reload-plugins,sonnet,5,819057,0.8947,0.0,0.0
 8aadc0d5,2026-10-11T11:25,.claude,Diff plugin directory,/plugin plugin-authoring,opus,109,20549192,11.6776,0.0,0.0
 d69fe483,2026-10-12T08:24,.claude,TinyFish Claude Code connection,/plugin /reload-plugins,haiku,62,10482704,2.677,0.0,0.0
 e4813bb6,2026-10-13T13:40,.claude,Recommendation question,,fable,14,2284132,3.3251,2.7649,0.0
@@ -62,7 +61,7 @@ f0a5628f,2026-10-28T15:53,Obsidian-second-brain,Index-first reading and MCP crit
 6476a796,2026-10-28T16:06,Obsidian-second-brain,Index-first reading and MCP disagreements,,fable,8,530529,1.4349,1.4349,0.4534
 3a86c9db,2026-10-29T14:48,home,Claude telemetry,session-metrics:session-metrics /plugin,haiku,60,6511714,3.1861,0.0,0.0
 43ca4bbe,2026-10-30T00:36,.claude,Voicebox MCP server setup,/mcp,fable,19,1589296,1.8848,1.6305,0.0
-dde64669,2026-10-30T08:11,Obsidian-second-brain,Orphan nodes cleanup,claude-obsidian:wiki-ingest,opus,91,15584694,6.003,0.0,0.0
+dde64669,2026-10-30T08:11,Obsidian-second-brain,Orphan nodes cleanup,claude-obsidian:wiki-ingest /claude-obsidian:wiki-lint,opus,97,17211019,7.6775,0.0,0.0
 7a23d916,2026-10-30T15:38,dashboards-source,Dashboard status.json sync loop,/loop,opus,68,5787520,1.897,0.0,0.0
 3e60ed38,2026-10-30T22:34,dashboards-source,Baskers.net WCAG 2.2 AA audit,/effort /autocompact,opus,68,6839690,2.5395,0.0,0.0
 4dd48ad7,2026-10-31T11:22,.claude,session,/poster-design-studio:poster-design-stud,opus,28,2068712,1.3413,0.0,0.0
@@ -149,3 +148,4 @@ ced99bed,2026-11-24T03:30,.jarvis-workspace,Jarvis routine proposal from session
 dfec1eaa,2026-11-26T16:32,assistant,to resume Two items are still open: Quentin stopping when hi,/context-handoff:handoff-resume,opus,22,2770871,1.0679,0.0,0.0
 a7d1dca5,2026-11-26T16:36,assistant,Resume from handoff,/handoff-productivity:cs-handoff,opus,83,11810044,3.5869,0.0,0.0
 76822b6b,2026-11-26T16:57,assistant,Quentin: captions under his face,/handoff-productivity:cs-handoff context-handoff:handoff-save,opus,57,8471707,2.8076,0.0,0.0
+0266ef2e,2026-11-26T23:43,assistant,Resume from handoff,,opus,20,2628965,1.1879,0.0,0.0
