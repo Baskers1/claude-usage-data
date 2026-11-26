@@ -415,3 +415,4 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-25T23,Obsidian-second-brain,sonnet,6,923,55518,78217,2,0.1559
 2026-11-26T10,assistant,opus,4,455,93798,188778,2,0.5159
 2026-11-26T11,assistant,opus,66,7715,83874,4077651,33,1.3895
+2026-11-26T12,assistant,opus,54,7017,12903,3531487,26,0.9114
