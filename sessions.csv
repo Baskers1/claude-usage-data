@@ -79,7 +79,6 @@ c06b0aee,2026-11-07T10:32,.claude,Graphify codebase queries,/graphify,haiku,100,
 661a9b1a,2026-11-07T11:49,.claude,Motion-prompt library,motion-prompt,opus,128,27520444,27.0179,0.0,15.8756
 cafbb538,2026-11-07T12:42,.claude,ai-second-brain skill clone,/plugin /reload-plugins,opus,36,3283200,2.4972,0.0,0.0
 a52c6489,2026-11-08T02:13,.claude,Remove playwright MCP server scope,/plugin /reload-plugins,opus,18,1904969,1.9187,0.0,0.0
-497e5af8,2026-11-08T02:29,Obsidian,Wiki ingest,claude-obsidian:wiki-ingest,sonnet,37,4049458,0.8403,0.0,0.0
 9211f009,2026-11-08T11:19,dashboards,Token doctor spend diagnosis,/token-doctor,opus,290,29219879,37.6329,0.0,32.2182
 f53d006c,2026-11-08T21:22,Obsidian,Wiki-ingest for Obsidian vault,/claude-obsidian:wiki-ingest /claude-obsidian:wiki-lint,opus,65,5833478,3.1229,0.0,0.0
 6513dadd,2026-11-08T21:44,Obsidian,Obsidian CLI vault management,/reload-plugins /obsidian-cli,opus,25,1835125,1.3305,0.0,0.0
@@ -138,7 +137,7 @@ c18f0aa0,2026-11-22T08:58,.jarvis-workspace,Overnight email and calendar summary
 62c330c7,2026-11-22T13:05,.jarvis-workspace,Getting to know Baskers,,opus,1,212962,1.065,0.0,0.0
 1a47bd7a,2026-11-22T15:03,assistant,Resume from handoff,context-handoff:handoff-resume context-handoff:handoff-save,opus,46,6833690,2.5694,0.0,0.0
 40e895c5,2026-11-22T15:41,Downloads,Image teardown,/teardown watch:watch,opus,200,45589548,17.0426,0.0,0.0
-01c14315,2026-11-22T16:02,assistant,Resume from handoff,superpowers:brainstorming superpowers:writing-plans,opus,396,71085125,21.6489,0.0,0.4519
+01c14315,2026-11-22T16:02,assistant,Resume from handoff,superpowers:brainstorming superpowers:writing-plans,opus,405,72368654,22.4063,0.0,0.4519
 730ef99f,2026-11-22T18:05,.jarvis-workspace,Voice chat with Baskers,,opus,1,212962,1.065,0.0,0.0
 1e976cef,2026-11-22T21:23,Downloads,Image teardown,/handoff-productivity:cs-handoff context-handoff:handoff-save,opus,99,22061327,7.7323,0.0,0.0
 47ee9881,2026-11-23T03:30,.jarvis-workspace,Jarvis session transcript review,,opus,1,212211,1.0612,0.0,0.0
@@ -149,3 +148,4 @@ ce37fee4,2026-11-23T14:36,.jarvis-workspace,Last 14 days email contacts,,opus,3,
 d8a1c475,2026-11-23T17:34,assistant,Explore BagiBagi Z01 badge for Quentin,,opus,14,1810478,0.8738,0.0,0.0
 ced99bed,2026-11-24T03:30,.jarvis-workspace,Jarvis routine proposal from session logs,,opus,1,211542,1.0578,0.0,0.0
 8b4af204,2026-11-24T07:30,.jarvis-workspace,Email correspondents and follow-ups review,,opus,3,661019,1.236,0.0,0.0
+48a27d94,2026-11-26T11:22,assistant,Resume from handoff,,opus,26,3168812,1.1479,0.0,0.0
