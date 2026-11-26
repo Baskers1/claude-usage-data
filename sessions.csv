@@ -103,7 +103,6 @@ aff552de,2026-11-11T11:56,dashboards-efficiency-scrapekit,Graphify codebase grap
 fb9f0315,2026-11-11T22:34,Obsidian-second-brain,Scheduled jobs on the iMac,,opus,11,1021212,1.2912,0.0,0.0
 c4c4242d,2026-11-11T22:38,Obsidian-second-brain,Nightly ingest 10 November incident,,opus,8,842213,1.0493,0.0,0.0
 f21d4d78,2026-11-12T14:06,Obsidian-second-brain,Staging wiki Maps.base,,opus,12,1108429,1.3917,0.0,0.0
-974bc1f5,2026-11-12T15:12,Obsidian-second-brain,AFTER-T2 nightly ingest 10 November,,opus,7,676939,0.8937,0.0,0.0
 6a47bc96,2026-11-17T12:50,.jarvis-workspace,Self-introduction profile JSON,,opus,1,211202,1.0565,0.0,0.0
 923d4e1b,2026-11-17T18:05,.jarvis-workspace,Getting to know Baskers,,opus,1,212773,1.0656,0.0,0.0
 e3c49a80,2026-11-18T03:30,.jarvis-workspace,Jarvis routine proposal from session logs,,opus,1,211529,1.0578,0.0,0.0
@@ -148,4 +147,5 @@ ced99bed,2026-11-24T03:30,.jarvis-workspace,Jarvis routine proposal from session
 48a27d94,2026-11-26T11:22,assistant,Resume from handoff,,opus,66,8462349,2.896,0.0,0.0
 64b21aeb,2026-11-26T16:26,assistant,Resume from handoff,context-handoff:handoff-save,opus,30,4029108,1.5069,0.0,0.0
 dfec1eaa,2026-11-26T16:32,assistant,to resume Two items are still open: Quentin stopping when hi,/context-handoff:handoff-resume,opus,22,2770871,1.0679,0.0,0.0
-a7d1dca5,2026-11-26T16:36,assistant,Resume from handoff,,opus,45,5830386,1.9784,0.0,0.0
+a7d1dca5,2026-11-26T16:36,assistant,Resume from handoff,/handoff-productivity:cs-handoff,opus,83,11810044,3.5869,0.0,0.0
+76822b6b,2026-11-26T16:57,assistant,Quentin: captions under his face,/handoff-productivity:cs-handoff context-handoff:handoff-save,opus,57,8471707,2.8076,0.0,0.0
