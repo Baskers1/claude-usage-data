@@ -47,7 +47,6 @@ ed782a82,2026-10-14T22:41,.claude,Settings.json validation check,/rate-limit-opt
 9628a021,2026-10-16T18:06,.claude,Open-meteo installation,/ponytail:ponytail-audit /plugin,opus,46,6313757,5.6201,0.0,0.0
 5168e22e,2026-10-16T23:10,.claude,Trigger update for task-prompt-ready,/reload-plugins,opus,13,1269979,2.7665,0.0,0.0
 59a9b34e,2026-10-18T02:01,.claude,Autocompact buffer,/plugin /huggingface-skills:huggingface-local-mo,opus,14,1928641,3.1623,0.0,0.0
-75f50c60,2026-10-18T13:44,.claude,Osb sandbox setup,,sonnet,28,2563386,1.0491,0.0,0.0
 a759323d,2026-10-18T15:23,.claude,Markitdown-ocr installation,/plugin /reload-plugins,fable,24,2890007,3.1938,2.6293,0.0
 facaef41,2026-10-21T12:04,.claude,Review plugins,/claude-mem:babysit /claudinator,fable,36,4709096,4.8594,2.4237,0.0
 acfa3839,2026-10-21T12:28,.claude,GitHub check,/ponytail:ponytail,haiku,67,6772547,2.5071,0.0,0.0
@@ -148,4 +147,5 @@ a7d1dca5,2026-11-26T16:36,assistant,Resume from handoff,/handoff-productivity:cs
 76822b6b,2026-11-26T16:57,assistant,Quentin: captions under his face,/handoff-productivity:cs-handoff context-handoff:handoff-save,opus,57,8471707,2.8076,0.0,0.0
 0266ef2e,2026-11-26T23:43,assistant,Resume from handoff,,opus,35,4820055,1.7355,0.0,0.0
 1a2c6ae6,2026-11-27T00:06,assistant,Resume from handoff,/handoff-productivity:cs-handoff,opus,29,4048696,1.4824,0.0,0.0
-bb1b9d95,2026-11-27T01:03,assistant,Resume from handoff,/autocompact,opus,128,20220949,6.1616,0.0,0.0
+bb1b9d95,2026-11-27T01:03,assistant,Resume from handoff,/autocompact /handoff-productivity:cs-handoff,opus,164,27475347,8.4563,0.0,0.0
+25437bb0,2026-11-27T10:05,assistant,Quentin: use messaging apps and other Mac apps,superpowers:brainstorming superpowers:writing-plans,opus,72,11645398,4.9176,0.0,0.2726
