@@ -424,3 +424,5 @@ hour,project,model,input_tokens,output_tokens,cache_write_tokens,cache_read_toke
 2026-11-26T23,assistant,opus,52,11843,100727,3380728,26,1.4168
 2026-11-27T00,assistant,opus,78,13084,97206,5265033,38,1.801
 2026-11-27T01,assistant,opus,32,5378,80692,2002795,16,0.9117
+2026-11-27T08,assistant,opus,6,760,77098,284778,3,0.4577
+2026-11-27T09,assistant,opus,220,43212,79563,17646415,109,4.7922

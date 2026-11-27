@@ -81,7 +81,6 @@ a52c6489,2026-11-08T02:13,.claude,Remove playwright MCP server scope,/plugin /re
 f53d006c,2026-11-08T21:22,Obsidian,Wiki-ingest for Obsidian vault,/claude-obsidian:wiki-ingest /claude-obsidian:wiki-lint,opus,65,5833478,3.1229,0.0,0.0
 6513dadd,2026-11-08T21:44,Obsidian,Obsidian CLI vault management,/reload-plugins /obsidian-cli,opus,25,1835125,1.3305,0.0,0.0
 f94bbbf6,2026-11-08T22:50,.claude,X-Wing teardown simulator,/reload-skills /reload-plugins,opus,18,2127027,3.7223,0.0,0.0
-188bc7d9,2026-11-08T23:29,dashboards-source,,/anthropic-skills:finish-the-job,sonnet,24,3875592,0.975,0.0,0.0
 c51c1128,2026-11-08T23:36,dashboards-source,handoff-xiahei,/ian-xiaohei-illustrations /anthropic-skills:session-wrap-up,sonnet,30,4581219,1.1591,0.0,0.0
 ab9e51d9,2026-11-08T23:39,.claude,Ian-xiaohei-illustrations repository,,opus,10,752081,1.1096,0.0,0.0
 dd0c887e,2026-11-09T09:06,home,Linux VM for running repo tests,cua-sandboxes,opus,32,3149648,2.4358,0.0,0.0
@@ -149,3 +148,4 @@ a7d1dca5,2026-11-26T16:36,assistant,Resume from handoff,/handoff-productivity:cs
 76822b6b,2026-11-26T16:57,assistant,Quentin: captions under his face,/handoff-productivity:cs-handoff context-handoff:handoff-save,opus,57,8471707,2.8076,0.0,0.0
 0266ef2e,2026-11-26T23:43,assistant,Resume from handoff,,opus,35,4820055,1.7355,0.0,0.0
 1a2c6ae6,2026-11-27T00:06,assistant,Resume from handoff,/handoff-productivity:cs-handoff,opus,29,4048696,1.4824,0.0,0.0
+bb1b9d95,2026-11-27T01:03,assistant,Resume from handoff,/autocompact,opus,128,20220949,6.1616,0.0,0.0
