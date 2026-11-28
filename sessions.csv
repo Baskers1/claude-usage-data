@@ -97,7 +97,6 @@ aff552de,2026-11-11T11:56,dashboards-efficiency-scrapekit,Graphify codebase grap
 2138baec,2026-11-11T13:10,Obsidian-second-brain,Weekly vault check,,opus,50,5634209,3.5839,0.0,0.0
 475e331a,2026-11-11T13:21,Obsidian-second-brain,Graphify update and nightly-ingest check,graphify,opus,47,6162300,7.4422,0.0,2.935
 fb9f0315,2026-11-11T22:34,Obsidian-second-brain,Scheduled jobs on the iMac,,opus,11,1021212,1.2912,0.0,0.0
-c4c4242d,2026-11-11T22:38,Obsidian-second-brain,Nightly ingest 10 November incident,,opus,8,842213,1.0493,0.0,0.0
 f21d4d78,2026-11-12T14:06,Obsidian-second-brain,Staging wiki Maps.base,,opus,12,1108429,1.3917,0.0,0.0
 6a47bc96,2026-11-17T12:50,.jarvis-workspace,Self-introduction profile JSON,,opus,1,211202,1.0565,0.0,0.0
 923d4e1b,2026-11-17T18:05,.jarvis-workspace,Getting to know Baskers,,opus,1,212773,1.0656,0.0,0.0
@@ -107,7 +106,6 @@ de554309,2026-11-19T03:30,.jarvis-workspace,Jarvis routine recurring request ana
 eea93779,2026-11-19T23:14,tech-briefs,,context-handoff:handoff-resume anthropic-skills:adhd-clear-steps,opus,72,13577131,4.1334,0.0,0.0
 0f2fbc2a,2026-11-20T00:04,tech-briefs,,context-handoff:handoff-save,opus,48,7943943,2.4244,0.0,0.0
 d72a13cb,2026-11-20T00:35,tech-briefs,Voice assistant handoff continuation,/anthropic-skills:be-more-ambitious context-handoff:handoff-save,opus,112,21715368,7.0274,0.0,0.8526
-f3d2bf99,2026-11-20T03:30,.jarvis-workspace,Jarvis routine recurring request analysis,,opus,1,211014,1.0552,0.0,0.0
 fc0865dc,2026-11-20T08:18,assistant,Resume from handoff,context-handoff:handoff-save /handoff-productivity:cs-handoff,opus,99,18024860,5.4536,0.0,0.0
 87285dd2,2026-11-20T08:42,assistant,Add web search to Quentin,claude-api /handoff-productivity:cs-handoff,opus,86,21395057,6.3288,0.0,0.0
 e9dc80cb,2026-11-20T09:41,assistant,Resume from handoff,/ponytail:ponytail,opus,19,2461220,1.2762,0.0,0.0
@@ -118,8 +116,8 @@ c4b7b584,2026-11-20T17:35,assistant,Resume from handoff,context-handoff:handoff-
 c645003f,2026-11-20T23:34,assistant,Resume from handoff,/ponytail:ponytail context-handoff:handoff-save,opus,41,5620926,1.9479,0.0,0.0
 90ffb20b,2026-11-21T00:10,assistant,Resume from handoff,/ponytail:ponytail superpowers:brainstorming,opus,153,33330721,10.2884,0.0,0.3228
 37884fab,2026-11-21T01:13,assistant,Make Quentin reply faster,superpowers:brainstorming /handoff-productivity:cs-handoff,opus,29,4566649,1.8223,0.0,0.0
+a014d10a,2026-11-21T20:19,assistant,Make Quentin reply faster,context-handoff:handoff-save,opus,56,7914341,3.4493,0.0,0.0
 db40cf2f,2026-11-21T20:19,assistant,Resume from handoff,,opus,34,4682948,2.11,0.0,0.0
-a014d10a,2026-11-21T20:19,assistant,Make Quentin reply faster,context-handoff:handoff-save,opus,31,4223988,2.0039,0.0,0.0
 4b5f49a3,2026-11-21T21:52,assistant,Resume from handoff,,opus,23,2849025,1.5027,0.0,0.0
 89e65832,2026-11-21T23:08,assistant,Resume from handoff,superpowers:brainstorming superpowers:writing-plans,opus,222,60345983,18.0082,0.0,0.4486
 ec33d94a,2026-11-22T03:00,.jarvis-workspace,Jarvis voice chat onboarding,,opus,1,212737,1.0644,0.0,0.0
@@ -138,6 +136,7 @@ c3bbbdfb,2026-11-23T07:05,.jarvis-workspace,Introductory voice chat with Baskers
 d6c075d1,2026-11-23T12:59,Downloads,Image teardown,,opus,69,11952642,4.7015,0.0,0.0
 ce37fee4,2026-11-23T14:36,.jarvis-workspace,Last 14 days email contacts,,opus,3,660659,1.2423,0.0,0.0
 9954ce5c,2026-11-23T16:49,assistant,E87 Ebadge Quentin integration,context-handoff:handoff-save /handoff-productivity:cs-handoff,opus,100,19602602,5.9799,0.0,0.0
+d8a1c475,2026-11-23T17:34,assistant,Explore BagiBagi Z01 badge for Quentin,,opus,41,5597492,2.3355,0.0,0.0
 ced99bed,2026-11-24T03:30,.jarvis-workspace,Jarvis routine proposal from session logs,,opus,1,211542,1.0578,0.0,0.0
 8b4af204,2026-11-24T07:30,.jarvis-workspace,Email correspondents and follow-ups review,,opus,3,661019,1.236,0.0,0.0
 48a27d94,2026-11-26T11:22,assistant,Resume from handoff,,opus,66,8462349,2.896,0.0,0.0
@@ -149,3 +148,4 @@ a7d1dca5,2026-11-26T16:36,assistant,Resume from handoff,/handoff-productivity:cs
 1a2c6ae6,2026-11-27T00:06,assistant,Resume from handoff,/handoff-productivity:cs-handoff,opus,29,4048696,1.4824,0.0,0.0
 bb1b9d95,2026-11-27T01:03,assistant,Resume from handoff,/autocompact /handoff-productivity:cs-handoff,opus,164,27475347,8.4563,0.0,0.0
 25437bb0,2026-11-27T10:05,assistant,Quentin: use messaging apps and other Mac apps,superpowers:brainstorming superpowers:writing-plans,opus,72,11645398,4.9176,0.0,0.2726
+c241fb63,2026-11-28T12:23,assistant,Quentin: use messaging apps and other Mac apps,context-handoff:handoff-resume context-handoff:handoff-save,opus,38,5282468,1.9337,0.0,0.0
